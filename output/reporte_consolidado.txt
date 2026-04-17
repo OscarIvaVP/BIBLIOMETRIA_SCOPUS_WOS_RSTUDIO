@@ -1,0 +1,1846 @@
+﻿======================================================================
+  MERGE & DEDUPLICATION REPORT
+======================================================================
+
+  WoS records:                    500
+  Scopus records:                 777
+  Total before dedup:             1277
+
+  Duplicates by DOI:              356
+  Duplicates by title similarity: 9
+  Total duplicates removed:       365
+
+  Unique from Scopus added:       412
+  Priority on duplicate:          WOS
+
+  FINAL MERGED RECORDS:           912
+======================================================================
+
+----------------------------------------------------------------------
+  DUPLICATE DETAILS
+----------------------------------------------------------------------
+
+  [  1] Match: DOI
+        DOI:   10.1038/s41598-025-23184-8
+        WoS:   Physiological indicators drive climate-smart and sustainable AWD irrigation in rice systems
+        Scopus: Physiological indicators drive climate-smart and sustainable AWD irrigation in rice systems
+
+  [  2] Match: DOI
+        DOI:   10.3390/agriculture14040585
+        WoS:   Can the Integration of Water and Fertilizer Promote the Sustainable Development of Rice Production i
+        Scopus: Can the Integration of Water and Fertilizer Promote the Sustainable Development of Rice Production i
+
+  [  3] Match: DOI
+        DOI:   10.1016/j.jclepro.2022.135220
+        WoS:   Model-based water footprint accounting framework to evaluate new water management policies
+        Scopus: Model-based water footprint accounting framework to evaluate new water management policies
+
+  [  4] Match: DOI
+        DOI:   10.1016/j.jclepro.2025.145205
+        WoS:   Insights into the environmental-economic sustainability of rice production in China
+        Scopus: Insights into the environmental–economic sustainability of rice production in China
+
+  [  5] Match: DOI
+        DOI:   10.3390/ma16186105
+        WoS:   Assessment of Wood Bio-Concrete Properties Modified with Silane-Siloxane
+        Scopus: Assessment of Wood Bio-Concrete Properties Modified with Silane–Siloxane
+
+  [  6] Match: DOI
+        DOI:   10.1016/j.jclepro.2022.134276
+        WoS:   Sustainable production of ethyl levulinate by levulinic acid esterification obtained from Colombian 
+        Scopus: Sustainable production of ethyl levulinate by levulinic acid esterification obtained from Colombian 
+
+  [  7] Match: DOI
+        DOI:   10.1016/j.jclepro.2021.126151
+        WoS:   Analyzing life-cycle water footprint for advanced bio-liquid fuel: Crop residues and non-grain biofu
+        Scopus: Analyzing life-cycle water footprint for advanced bio-liquid fuel: Crop residues and non-grain biofu
+
+  [  8] Match: DOI
+        DOI:   10.3390/w18010122
+        WoS:   Virtual Water and Agricultural Sustainability: Unraveling the Trade-Water Nexus in Ecuador's Crop Se
+        Scopus: Virtual Water and Agricultural Sustainability: Unraveling the Trade–Water Nexus in Ecuador’s Crop Se
+
+  [  9] Match: DOI
+        DOI:   10.1016/j.resenv.2026.100323
+        WoS:   Optimizing crop planting structures for water savings and grain revenue in China considering differe
+        Scopus: Optimizing crop planting structures for water savings and grain revenue in China considering differe
+
+  [ 10] Match: DOI
+        DOI:   10.3390/su14010315
+        WoS:   Carbon Footprint Calculator Customized for Rice Products: Concept and Characterization of Rice Value
+        Scopus: Carbon Footprint Calculator Customized for Rice Products: Concept and Characterization of Rice Value
+
+  [ 11] Match: DOI
+        DOI:   10.1007/s10668-025-07164-6
+        WoS:   Spatial ranking of paddy rice cultivation areas using water footprint concepts and TOPSIS technique
+        Scopus: Spatial ranking of paddy rice cultivation areas using water footprint concepts and TOPSIS technique
+
+  [ 12] Match: DOI
+        DOI:   10.1016/j.jclepro.2025.145430
+        WoS:   Unveiling Vietnam's trade dynamics: The perspective of virtual water on agricultural products trade 
+        Scopus: Unveiling Vietnam's trade dynamics: The perspective of virtual water on agricultural products trade 
+
+  [ 13] Match: DOI
+        DOI:   10.1016/j.resenv.2024.100173
+        WoS:   Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in
+        Scopus: Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in
+
+  [ 14] Match: DOI
+        DOI:   10.1016/j.jia.2024.07.025
+        WoS:   Exploring strategies for agricultural sustainability in super hybrid rice using the food-carbon-nitr
+        Scopus: Exploring strategies for agricultural sustainability in super hybrid rice using the food–carbon–nitr
+
+  [ 15] Match: DOI
+        DOI:   10.1016/j.agsy.2020.102959
+        WoS:   Carbon footprint and water footprint of rice and wheat production in Punjab, India
+        Scopus: Carbon footprint and water footprint of rice and wheat production in Punjab, India
+
+  [ 16] Match: DOI
+        DOI:   10.1002/adem.202500447
+        WoS:   Binderless Acoustic Panels From Rice Straw Pulp With Tunable Fiber Architectures
+        Scopus: Binderless Acoustic Panels From Rice Straw Pulp With Tunable Fiber Architectures
+
+  [ 17] Match: DOI
+        DOI:   10.1016/j.jclepro.2023.136249
+        WoS:   Resource use efficiencies, environmental footprints and net ecosystem economic benefit of direct-see
+        Scopus: Resource use efficiencies, environmental footprints and net ecosystem economic benefit of direct-see
+
+  [ 18] Match: DOI
+        DOI:   10.3390/land14020295
+        WoS:   The Water-Soil Resource Matching Pattern of Grain Crops in the North China Plain from the Perspectiv
+        Scopus: The Water–Soil Resource Matching Pattern of Grain Crops in the North China Plain from the Perspectiv
+
+  [ 19] Match: DOI
+        DOI:   10.1016/j.scitotenv.2020.143000
+        WoS:   Assessing the water scarcity footprint of food crops by growing season available water remaining (AW
+        Scopus: Assessing the water scarcity footprint of food crops by growing season available water remaining (AW
+
+  [ 20] Match: DOI
+        DOI:   10.3390/su13073951
+        WoS:   Lifecycle Assessment of Monosodium Glutamate Made from Non-Edible Biomass
+        Scopus: Lifecycle assessment of monosodium glutamate made from non-edible biomass
+
+  [ 21] Match: DOI
+        DOI:   10.1016/j.jhydrol.2023.130171
+        WoS:   Machine learning modeling of water footprint in crop production distinguishing water supply and irri
+        Scopus: Machine learning modeling of water footprint in crop production distinguishing water supply and irri
+
+  [ 22] Match: DOI
+        DOI:   10.1016/j.jhydrol.2025.134410
+        WoS:   Water footprint variations in major food crops triggered by different drought scenarios from a proba
+        Scopus: Water footprint variations in major food crops triggered by different drought scenarios from a proba
+
+  [ 23] Match: DOI
+        DOI:   10.1016/j.energy.2021.122655
+        WoS:   Energy efficiency and carbon footprints of rice-wheat system under long-term tillage and residue man
+        Scopus: Energy efficiency and carbon footprints of rice-wheat system under long-term tillage and residue man
+
+  [ 24] Match: DOI
+        DOI:   10.1016/j.eja.2024.127371
+        WoS:   Greenhouse gas emissions and mitigation potential of crop production in Northeast China
+        Scopus: Greenhouse gas emissions and mitigation potential of crop production in Northeast China
+
+  [ 25] Match: DOI
+        DOI:   10.1016/j.wse.2025.09.004
+        WoS:   Irrigation and percolation management for reducing water footprint and nutrient leaching in rice-bas
+        Scopus: Irrigation and percolation management for reducing water footprint and nutrient leaching in rice-bas
+
+  [ 26] Match: TITLE (similarity: 100.00%)
+        DOI:   N/A
+        WoS:   Land use management and carrying capacity of Bangsri Micro Watershed, East Java, Indonesia: A baseli
+        Scopus: Land use management and carrying capacity of bangsri micro watershed, East Java, Indonesia: A baseli
+
+  [ 27] Match: DOI
+        DOI:   10.1016/j.agwat.2023.108291
+        WoS:   A multi-pollutant pilot study to evaluate the grey water footprint of irrigated paddy rice
+        Scopus: A multi-pollutant pilot study to evaluate the grey water footprint of irrigated paddy rice
+
+  [ 28] Match: DOI
+        DOI:   10.1007/s11356-021-13365-z
+        WoS:   Multi-source data-based spatial variations of blue and green water footprints for rice production in
+        Scopus: Multi-source data-based spatial variations of blue and green water footprints for rice production in
+
+  [ 29] Match: DOI
+        DOI:   10.1080/19648189.2021.1955747
+        WoS:   Properties of sustainable self-compacting concrete made with rice husk ash
+        Scopus: Properties of sustainable self-compacting concrete made with rice husk ash
+
+  [ 30] Match: DOI
+        DOI:   10.1016/j.eja.2025.127915
+        WoS:   Two decades of organic farming in rice-wheat agroecosystems: An impact assessment of environmental f
+        Scopus: Two decades of organic farming in rice-wheat agroecosystems: An impact assessment of environmental f
+
+  [ 31] Match: DOI
+        DOI:   10.1038/s41598-025-06858-1
+        WoS:   Ecological security assessment of rice production systems in arid regions: a multi-criteria assessme
+        Scopus: Ecological security assessment of rice production systems in arid regions: a multi-criteria assessme
+
+  [ 32] Match: DOI
+        DOI:   10.2166/ws.2024.016
+        WoS:   The role of Kampar watershed in achieving sufficient rice production and sustaining agriculture
+        Scopus: The role of Kampar watershed in achieving sufficient rice production and sustaining agriculture
+
+  [ 33] Match: DOI
+        DOI:   10.1007/s11269-025-04323-2
+        WoS:   Crop Water Footprint Assessment: A Review of Methodological Approaches, Scale Variability, and Data 
+        Scopus: Crop Water Footprint Assessment: A Review of Methodological Approaches, Scale Variability, and Data 
+
+  [ 34] Match: DOI
+        DOI:   10.3390/nu15153393
+        WoS:   Plant-Based Dairy Alternatives Contribute to a Healthy and Sustainable Diet
+        Scopus: Plant-Based Dairy Alternatives Contribute to a Healthy and Sustainable Diet
+
+  [ 35] Match: DOI
+        DOI:   10.1016/j.jclepro.2021.127371
+        WoS:   Water resources efficiency assessment in crop production from the perspective of water footprint
+        Scopus: Water resources efficiency assessment in crop production from the perspective of water footprint
+
+  [ 36] Match: DOI
+        DOI:   10.1007/s11269-024-03839-3
+        WoS:   Impact of Climate Change on Regional Water Availability and Demand for Agricultural Production: Appl
+        Scopus: Impact of Climate Change on Regional Water Availability and Demand for Agricultural Production: Appl
+
+  [ 37] Match: DOI
+        DOI:   10.2166/ws.2021.322
+        WoS:   Virtual water trade and its implications on water sustainability
+        Scopus: Virtual water trade and its implications on water sustainability
+
+  [ 38] Match: DOI
+        DOI:   10.1016/j.eti.2025.104241
+        WoS:   Dynamic multi-objective optimization of rice irrigation integrating crop growth and water cycle dyna
+        Scopus: Dynamic multi-objective optimization of rice irrigation integrating crop growth and water cycle dyna
+
+  [ 39] Match: DOI
+        DOI:   10.1007/s43538-022-00148-4
+        WoS:   Climate-smart technologies for reducing water footprints in different cropland ecosystems: a meso an
+        Scopus: Climate-smart technologies for reducing water footprints in different cropland ecosystems: a meso an
+
+  [ 40] Match: DOI
+        DOI:   10.1016/j.nexus.2026.100633
+        WoS:   Reducing carbon footprint and acquiring carbon credits in intensively cultivated rice wheat system b
+        Scopus: Reducing carbon footprint and acquiring carbon credits in intensively cultivated rice wheat system b
+
+  [ 41] Match: DOI
+        DOI:   10.3389/fpls.2022.895402
+        WoS:   Shifting Rice Cropping Systems Mitigates Ecological Footprints and Enhances Grain Yield in Central C
+        Scopus: Shifting Rice Cropping Systems Mitigates Ecological Footprints and Enhances Grain Yield in Central C
+
+  [ 42] Match: DOI
+        DOI:   10.1016/j.spc.2020.12.002
+        WoS:   Estimation of the spatial and temporal water footprint of rice production in Bangladesh
+        Scopus: Estimation of the spatial and temporal water footprint of rice production in Bangladesh
+
+  [ 43] Match: TITLE (similarity: 100.00%)
+        DOI:   10.36103/3zseaq36
+        WoS:   ECONOMIC STUDY OF CALCULATION THE WATER FOOTPRINT AND VIRTUAL WATER FOR IRAQ'S IMPORTS FROM WHEAT AN
+        Scopus: ECONOMIC STUDY OF CALCULATION THE WATER FOOTPRINT AND VIRTUAL WATER FOR IRAQ’S IMPORTS FROM WHEAT AN
+
+  [ 44] Match: DOI
+        DOI:   10.1080/17583004.2021.2023049
+        WoS:   Diversification of rice growing areas in Eastern India with integrated soil-crop system management f
+        Scopus: Diversification of rice growing areas in Eastern India with integrated soil–crop system management f
+
+  [ 45] Match: DOI
+        DOI:   10.3389/fpls.2022.990105
+        WoS:   Coupling life cycle assessment and global sensitivity analysis to evaluate the uncertainty and key p
+        Scopus: Coupling life cycle assessment and global sensitivity analysis to evaluate the uncertainty and key p
+
+  [ 46] Match: DOI
+        DOI:   10.3390/c9020037
+        WoS:   Replacing Lime with Rice Husk Ash to Reduce Carbon Footprint of Bituminous Mixtures
+        Scopus: Replacing Lime with Rice Husk Ash to Reduce Carbon Footprint of Bituminous Mixtures
+
+  [ 47] Match: DOI
+        DOI:   10.1007/s10333-023-00928-8
+        WoS:   Carbon footprint status of Indian Punjab in relation to different pre- to post-harvest activities of
+        Scopus: Carbon footprint status of Indian Punjab in relation to different pre- to post-harvest activities of
+
+  [ 48] Match: DOI
+        DOI:   10.1007/s11069-020-04387-w
+        WoS:   Flood risk mapping and crop-water loss modeling using water footprint analysis in agricultural water
+        Scopus: Flood risk mapping and crop-water loss modeling using water footprint analysis in agricultural water
+
+  [ 49] Match: DOI
+        DOI:   10.1017/S136898002100402X
+        WoS:   Association between the socio-economic status of households and a more sustainable diet
+        Scopus: Association between the socio-economic status of households and a more sustainable diet
+
+  [ 50] Match: DOI
+        DOI:   10.1016/j.jenvman.2023.117879
+        WoS:   Sustainability assessment on paddy-upland crop rotations by carbon, nitrogen and water footprint int
+        Scopus: Sustainability assessment on paddy-upland crop rotations by carbon, nitrogen and water footprint int
+
+  [ 51] Match: DOI
+        DOI:   10.1016/j.agwat.2025.109456
+        WoS:   Resilience assessment of interprovincial crop virtual water flow network in China
+        Scopus: Resilience assessment of interprovincial crop virtual water flow network in China
+
+  [ 52] Match: DOI
+        DOI:   10.3390/agronomy12071494
+        WoS:   Potato Zero-Tillage and Mulching Is Promising in Achieving Agronomic Gain in Asia
+        Scopus: Potato Zero-Tillage and Mulching Is Promising in Achieving Agronomic Gain in Asia
+
+  [ 53] Match: DOI
+        DOI:   10.1016/j.jhydrol.2025.133415
+        WoS:   Crop conversion as a strategy for enhancing water efficiency and nutrient management under climate c
+        Scopus: Crop conversion as a strategy for enhancing water efficiency and nutrient management under climate c
+
+  [ 54] Match: DOI
+        DOI:   10.1016/j.eja.2024.127310
+        WoS:   Water resource efficiency evaluation of crop production in arid and semi-arid regions based on water
+        Scopus: Water resource efficiency evaluation of crop production in arid and semi-arid regions based on water
+
+  [ 55] Match: DOI
+        DOI:   10.1016/j.aquaculture.2024.740912
+        WoS:   The culture of Nile tilapia (Oreochromis niloticus) juvenile at different culture technologies: auto
+        Scopus: The culture of Nile tilapia (Oreochromis niloticus) juvenile at different culture technologies: auto
+
+  [ 56] Match: DOI
+        DOI:   10.1016/j.scitotenv.2024.173464
+        WoS:   Crop grey water footprints in China: The impact of pesticides on water pollution
+        Scopus: Crop grey water footprints in China: The impact of pesticides on water pollution
+
+  [ 57] Match: DOI
+        DOI:   10.1016/j.agwat.2024.108994
+        WoS:   Growth and productivity of direct-seeded basmati rice ( Oryza sativa L.) as influenced by sowing dat
+        Scopus: Growth and productivity of direct-seeded basmati rice (Oryza sativa L.) as influenced by sowing date
+
+  [ 58] Match: DOI
+        DOI:   10.1038/s41598-024-66696-5
+        WoS:   Designing a productive, profitable integrated farming system model with low water footprints for sma
+        Scopus: Designing a productive, profitable integrated farming system model with low water footprints for sma
+
+  [ 59] Match: DOI
+        DOI:   10.1016/j.agsy.2022.103493
+        WoS:   Are cascade reservoir systems sustainable agroecosystems? A comparative assessment of efficiency, ef
+        Scopus: Are cascade reservoir systems sustainable agroecosystems? A comparative assessment of efficiency, ef
+
+  [ 60] Match: DOI
+        DOI:   10.1016/j.ejrh.2023.101641
+        WoS:   Blue-green water migration and utilization efficiency under various irrigation-drainage measures app
+        Scopus: Blue-green water migration and utilization efficiency under various irrigation-drainage measures app
+
+  [ 61] Match: DOI
+        DOI:   10.1007/s10661-023-12029-4
+        WoS:   Water footprint of irrigated rice in the state of Rio Grande do Sul, 2019/2020 crop
+        Scopus: Water footprint of irrigated rice in the state of Rio Grande do Sul, 2019/2020 crop
+
+  [ 62] Match: DOI
+        DOI:   10.1007/s10333-025-01044-5
+        WoS:   Conceptual modeling of the rice production system: a case study of Northern Iran
+        Scopus: Conceptual modeling of the rice production system: a case study of Northern Iran
+
+  [ 63] Match: DOI
+        DOI:   10.3390/en15072605
+        WoS:   Environmental Valorization of Rice Waste as Adsorbent Material for the Removal of Nitrates from Wate
+        Scopus: Environmental Valorization of Rice Waste as Adsorbent Material for the Removal of Nitrates from Wate
+
+  [ 64] Match: DOI
+        DOI:   10.3390/soilsystems8030080
+        WoS:   Coastal Salinity Management and Cropping System Intensification through Conservation Agriculture in 
+        Scopus: Coastal Salinity Management and Cropping System Intensification through Conservation Agriculture in 
+
+  [ 65] Match: DOI
+        DOI:   10.1016/j.jenvman.2023.119888
+        WoS:   Carbon trade-off and energy budgeting under conventional and conservation tillage in a rice-wheat do
+        Scopus: Carbon trade-off and energy budgeting under conventional and conservation tillage in a rice-wheat do
+
+  [ 66] Match: DOI
+        DOI:   10.1016/j.jclepro.2021.127876
+        WoS:   Assessment of grey water footprint in paddy rice cultivation: Effects of field water management poli
+        Scopus: Assessment of grey water footprint in paddy rice cultivation: Effects of field water management poli
+
+  [ 67] Match: DOI
+        DOI:   10.1016/j.scitotenv.2022.156682
+        WoS:   Global spatio-temporal change assessment in interregional water stress footprint in China by a high 
+        Scopus: Global spatio-temporal change assessment in interregional water stress footprint in China by a high 
+
+  [ 68] Match: DOI
+        DOI:   10.1016/j.agee.2025.109507
+        WoS:   Green manuring combined with optimal water management achieves a triple-win for paddy soil quality, 
+        Scopus: Green manuring combined with optimal water management achieves a triple-win for paddy soil quality, 
+
+  [ 69] Match: DOI
+        DOI:   10.1016/j.agwat.2024.108956
+        WoS:   Enhanced strategies for water and fertilizer management to optimize yields and promote environmental
+        Scopus: Enhanced strategies for water and fertilizer management to optimize yields and promote environmental
+
+  [ 70] Match: DOI
+        DOI:   10.1016/j.scitotenv.2024.173852
+        WoS:   Resources time footprint indicator extension for evaluating human interventions in provisioning ecos
+        Scopus: Resources time footprint indicator extension for evaluating human interventions in provisioning ecos
+
+  [ 71] Match: DOI
+        DOI:   10.1016/j.conbuildmat.2021.122947
+        WoS:   Effect of coal ash and rice husk ash partial replacement in ordinary Portland cement on pervious con
+        Scopus: Effect of coal ash and rice husk ash partial replacement in ordinary Portland cement on pervious con
+
+  [ 72] Match: DOI
+        DOI:   10.1016/j.foodhyd.2024.110139
+        WoS:   Oat protein: Review of structure-function synergies with other plant proteins
+        Scopus: Oat protein: Review of structure-function synergies with other plant proteins
+
+  [ 73] Match: DOI
+        DOI:   10.3390/informatics11010003
+        WoS:   Integrating IOTA's Tangle with the Internet of Things for Sustainable Agriculture: A Proof-of-Concep
+        Scopus: Integrating IOTA’s Tangle with the Internet of Things for Sustainable Agriculture: A Proof-of-Concep
+
+  [ 74] Match: DOI
+        DOI:   10.1021/acsagscitech.1c00046
+        WoS:   Water Use Efficiencies, Productivities, and Footprints of Rice under a System of Rice Intensificatio
+        Scopus: Water Use Efficiencies, Productivities, and Footprints of Rice under a System of Rice Intensificatio
+
+  [ 75] Match: DOI
+        DOI:   10.1007/s10333-021-00849-4
+        WoS:   APSIM-Oryza model for simulating paddy consumptive water footprints under alternate wetting and dryi
+        Scopus: APSIM-Oryza model for simulating paddy consumptive water footprints under alternate wetting and dryi
+
+  [ 76] Match: DOI
+        DOI:   10.1007/s40003-025-00892-1
+        WoS:   Water Use in Rice Crop Cultivation in India: A Quantitative Assessment
+        Scopus: Water Use in Rice Crop Cultivation in India: A Quantitative Assessment
+
+  [ 77] Match: DOI
+        DOI:   10.1016/j.scitotenv.2023.164675
+        WoS:   The impact of crop residue return on the food-carbon-water-energy nexus in a rice-wheat rotation sys
+        Scopus: The impact of crop residue return on the food–carbon–water–energy nexus in a rice–wheat rotation sys
+
+  [ 78] Match: DOI
+        DOI:   10.34910/MCE.115.11
+        WoS:   Durable concrete in sewerage using non-grinded rice husk ash and water-permeable mould
+        Scopus: Durable concrete in sewerage using non-grinded rice husk ash and water-permeable mould
+
+  [ 79] Match: DOI
+        DOI:   10.1016/j.jclepro.2021.127455
+        WoS:   Agricultural infrastructure: The forgotten key driving force of crop-related water footprints and vi
+        Scopus: Agricultural infrastructure: The forgotten key driving force of crop-related water footprints and vi
+
+  [ 80] Match: DOI
+        DOI:   10.3390/agronomy12051186
+        WoS:   Tillage, Water and Nitrogen Management Strategies Influence the Water Footprint, Nutrient Use Effici
+        Scopus: Tillage, Water and Nitrogen Management Strategies Influence the Water Footprint, Nutrient Use Effici
+
+  [ 81] Match: DOI
+        DOI:   10.3390/agronomy14081747
+        WoS:   Effect of Irrigation and Cultivation Modes on Growth, Physiology, Rice Yield Parameters and Water Fo
+        Scopus: Effect of Irrigation and Cultivation Modes on Growth, Physiology, Rice Yield Parameters and Water Fo
+
+  [ 82] Match: DOI
+        DOI:   10.1016/j.jclepro.2022.134247
+        WoS:   Comprehensive assessment of integrated rice-crayfish farming system as a new paradigm to air-water-f
+        Scopus: Comprehensive assessment of integrated rice-crayfish farming system as a new paradigm to air-water-f
+
+  [ 83] Match: DOI
+        DOI:   10.1007/s10661-023-11117-9
+        WoS:   Yield, water, and carbon footprint of rainfed rice production under the lens of mid-century climate 
+        Scopus: Yield, water, and carbon footprint of rainfed rice production under the lens of mid-century climate 
+
+  [ 84] Match: DOI
+        DOI:   10.1088/1748-9326/ac3604
+        WoS:   Virtual nitrogen and phosphorus flow associated with interprovincial crop trade and its effect on gr
+        Scopus: Virtual nitrogen and phosphorus flow associated with interprovincial crop trade and its effect on gr
+
+  [ 85] Match: TITLE (similarity: 100.00%)
+        DOI:   N/A
+        WoS:   International Cereal Trade of Bangladesh: Implications for Virtual Land, Water, and GHG Emissions fr
+        Scopus: International cereal trade of Bangladesh: Implications for virtual land, water, and GHG emissions fr
+
+  [ 86] Match: DOI
+        DOI:   10.1016/j.jclepro.2024.143154
+        WoS:   Simultaneous optimization of water and nitrogen management demonstrates effective and robust perform
+        Scopus: Simultaneous optimization of water and nitrogen management demonstrates effective and robust perform
+
+  [ 87] Match: DOI
+        DOI:   10.3390/su14159144
+        WoS:   Seasonal Variations in Grain Yield, Greenhouse Gas Emissions and Carbon Sequestration for Maize Cult
+        Scopus: Seasonal Variations in Grain Yield, Greenhouse Gas Emissions and Carbon Sequestration for Maize Cult
+
+  [ 88] Match: DOI
+        DOI:   10.3390/w16152077
+        WoS:   Crop Water Use and a Gravity Model Exploration of Virtual Water Trade in Ghana's Cereal Agriculture
+        Scopus: Crop Water Use and a Gravity Model Exploration of Virtual Water Trade in Ghana’s Cereal Agriculture
+
+  [ 89] Match: DOI
+        DOI:   10.3390/ma15082736
+        WoS:   Hybrid Lime-Pozzolan Geopolymer Systems: Microstructural, Mechanical and Durability Studies
+        Scopus: Hybrid Lime–Pozzolan Geopolymer Systems: Microstructural, Mechanical and Durability Studies
+
+  [ 90] Match: DOI
+        DOI:   10.3390/su13147586
+        WoS:   Decomposition Analysis of Global Water Supply-Demand Balances Focusing on Food Production and Consum
+        Scopus: Decomposition analysis of global water supply-demand balances focusing on food production and consum
+
+  [ 91] Match: DOI
+        DOI:   10.1016/j.cesys.2024.100238
+        WoS:   Meta-analysis of yield-emission trade-off in direct seeded vs. puddled transplanted rice: Towards a 
+        Scopus: Meta-analysis of yield-emission trade-off in direct seeded vs. puddled transplanted rice: Towards a 
+
+  [ 92] Match: DOI
+        DOI:   10.1016/j.scitotenv.2023.163102
+        WoS:   Energy budgeting and carbon footprint of different wheat-rice cropping systems in China
+        Scopus: Energy budgeting and carbon footprint of different wheat–rice cropping systems in China
+
+  [ 93] Match: DOI
+        DOI:   10.2166/wcc.2020.093
+        WoS:   Temporal trends of climatic variables and water footprint of rice and wheat production in Punjab, In
+        Scopus: Temporal trends of climatic variables and water footprint of rice and wheat production in Punjab, In
+
+  [ 94] Match: DOI
+        DOI:   10.1016/j.gloenvcha.2022.102489
+        WoS:   A global comparison of carbon-water-food nexus based on dietary consumption
+        Scopus: A global comparison of carbon-water-food nexus based on dietary consumption
+
+  [ 95] Match: DOI
+        DOI:   10.1016/j.watres.2022.118803
+        WoS:   Inputs for staple crop production in China drive burden shifting of water and carbon footprints tran
+        Scopus: Inputs for staple crop production in China drive burden shifting of water and carbon footprints tran
+
+  [ 96] Match: DOI
+        DOI:   10.3390/agronomy13040955
+        WoS:   Development of Integrated Farming System Model-A Step towards Achieving Biodiverse, Resilient and Pr
+        Scopus: Development of Integrated Farming System Model—A Step towards Achieving Biodiverse, Resilient and Pr
+
+  [ 97] Match: DOI
+        DOI:   10.1017/S1742170525100112
+        WoS:   A comparative analysis of the water and carbon footprints of hybrid, plant-based, and animal-based b
+        Scopus: A comparative analysis of the water and carbon footprints of hybrid, plant-based, and animal-based b
+
+  [ 98] Match: DOI
+        DOI:   10.2166/ws.2021.068
+        WoS:   Consumptive water footprints, water use efficiencies and productivities of rice under alternate wett
+        Scopus: Consumptive water footprints, water use efficiencies and productivities of rice under alternate wett
+
+  [ 99] Match: DOI
+        DOI:   10.1016/j.jclepro.2022.135760
+        WoS:   On the sustainability of paddy rice cultivation in the Paraiba do Sul river basin (Brazil) under a c
+        Scopus: On the sustainability of paddy rice cultivation in the Paraíba do Sul river basin (Brazil) under a c
+
+  [100] Match: DOI
+        DOI:   10.1061/JWRMD5.WRENG-6792
+        WoS:   Regional Low-Carbon Agricultural Resource Optimization and Management Model Based on the Coupling Re
+        Scopus: Regional Low-Carbon Agricultural Resource Optimization and Management Model Based on the Coupling Re
+
+  [101] Match: DOI
+        DOI:   10.1016/j.fcr.2024.109323
+        WoS:   Dry direct-seeded rice-wheat rotation system: Lower water and carbon footprint and higher carbon pro
+        Scopus: Dry direct-seeded rice-wheat rotation system: Lower water and carbon footprint and higher carbon pro
+
+  [102] Match: DOI
+        DOI:   10.2166/wcc.2025.581
+        WoS:   Effects of crop planting structure optimization on water-saving, environmental, and economic multibe
+        Scopus: Effects of crop planting structure optimization on water-saving, environmental, and economic multibe
+
+  [103] Match: DOI
+        DOI:   10.1016/j.agwat.2023.108485
+        WoS:   Resilience assessment of blue and green water resources for staple crop production in China
+        Scopus: Resilience assessment of blue and green water resources for staple crop production in China
+
+  [104] Match: DOI
+        DOI:   10.1016/j.biombioe.2024.107439
+        WoS:   Environmental sustainability, energy efficiency and uncertainty analysis of agricultural residue-bas
+        Scopus: Environmental sustainability, energy efficiency and uncertainty analysis of agricultural residue-bas
+
+  [105] Match: DOI
+        DOI:   10.1111/nyas.15368
+        WoS:   Value-added utilization of agricultural wastes in biocomposite production: Characteristics and appli
+        Scopus: Value-added utilization of agricultural wastes in biocomposite production: Characteristics and appli
+
+  [106] Match: DOI
+        DOI:   10.1016/j.agwat.2020.106602
+        WoS:   Closing yield and harvest area gaps to mitigate water scarcity related to China's rice production
+        Scopus: Closing yield and harvest area gaps to mitigate water scarcity related to China's rice production
+
+  [107] Match: DOI
+        DOI:   10.1007/s11367-024-02308-8
+        WoS:   Factors influencing the carbon footprint of rice production in Northeastern Vietnam
+        Scopus: Factors influencing the carbon footprint of rice production in Northeastern Vietnam
+
+  [108] Match: DOI
+        DOI:   10.1093/plphys/kiaf056
+        WoS:   Vertical farming limitations and potential demonstrated by back-of-the-envelope calculations
+        Scopus: Vertical farming limitations and potential demonstrated by back-of-the-envelope calculations
+
+  [109] Match: DOI
+        DOI:   10.3390/soilsystems7020041
+        WoS:   Effects of Irrigation Regimes and Rice Varieties on Methane Emissions and Yield of Dry Season Rice i
+        Scopus: Effects of Irrigation Regimes and Rice Varieties on Methane Emissions and Yield of Dry Season Rice i
+
+  [110] Match: DOI
+        DOI:   10.14719/pst.6988
+        WoS:   A review on adaptive water management for climate-resilient rice: Mitigating greenhouse gas (GHG) em
+        Scopus: A review on adaptive water management for climate-resilient rice: Mitigating greenhouse gas (GHG) em
+
+  [111] Match: TITLE (similarity: 100.00%)
+        DOI:   N/A
+        WoS:   An assessment of water footprint for irrigated rice in Punjab
+        Scopus: An assessment of water footprint for irrigated rice in punjab
+
+  [112] Match: DOI
+        DOI:   10.1088/1748-9326/ac80cf
+        WoS:   Climate change impacts on water sustainability of South African crop production
+        Scopus: Climate change impacts on water sustainability of South African crop production
+
+  [113] Match: DOI
+        DOI:   10.1007/s40899-024-01164-6
+        WoS:   Modifying the virtual water trade of rice for global sustainability of freshwater resources
+        Scopus: Modifying the virtual water trade of rice for global sustainability of freshwater resources
+
+  [114] Match: DOI
+        DOI:   10.3390/agronomy12020380
+        WoS:   Carbon, Nitrogen and Water Footprints of Organic Rice and Conventional Rice Production over 4 Years 
+        Scopus: Carbon, Nitrogen and Water Footprints of Organic Rice and Conventional Rice Production over 4 Years 
+
+  [115] Match: DOI
+        DOI:   10.1007/s11269-021-03045-5
+        WoS:   Measurement of Resource Environmental Performance of Crop Planting Water Consumption Based on Water 
+        Scopus: Measurement of Resource Environmental Performance of Crop Planting Water Consumption Based on Water 
+
+  [116] Match: DOI
+        DOI:   10.1016/j.agsy.2025.104579
+        WoS:   System optimization practices for profitable and agro-ecologically sustainable agriculture in North-
+        Scopus: System optimization practices for profitable and agro-ecologically sustainable agriculture in North-
+
+  [117] Match: DOI
+        DOI:   10.1016/j.scitotenv.2021.149246
+        WoS:   Comparisons between main and ratoon crops in resource use efficiencies, environmental impacts, and e
+        Scopus: Comparisons between main and ratoon crops in resource use efficiencies, environmental impacts, and e
+
+  [118] Match: TITLE (similarity: 100.00%)
+        DOI:   10.18520/cs/v125/i5/544-550
+        WoS:   Water footprint assessment towards food sustainability for the valley region of Manipur, North East 
+        Scopus: Water footprint assessment towards food sustainability for the valley region of Manipur, North East 
+
+  [119] Match: DOI
+        DOI:   10.3390/su14127460
+        WoS:   Surface Seeding of Wheat: A Sustainable Way towards Climate Resilience Agriculture
+        Scopus: Surface Seeding of Wheat: A Sustainable Way towards Climate Resilience Agriculture
+
+  [120] Match: DOI
+        DOI:   10.1016/j.fcr.2026.110422
+        WoS:   Achieving co-benefits in enhancing rice productivity and mitigating the eco-environmental impacts th
+        Scopus: Achieving co-benefits in enhancing rice productivity and mitigating the eco-environmental impacts th
+
+  [121] Match: DOI
+        DOI:   10.1016/j.jhydrol.2023.129275
+        WoS:   Effects of multidimensional urbanisation on water footprint self-sufficiency of staple crops in Chin
+        Scopus: Effects of multidimensional urbanisation on water footprint self-sufficiency of staple crops in Chin
+
+  [122] Match: DOI
+        DOI:   10.1016/j.fcr.2025.110320
+        WoS:   A modeling framework for spatial optimization of cropping structure to promote food supply-demand ba
+        Scopus: A modeling framework for spatial optimization of cropping structure to promote food supply–demand ba
+
+  [123] Match: DOI
+        DOI:   10.1007/s11033-025-10405-6
+        WoS:   Drought's physiological footprint: implications for crop improvement in rice
+        Scopus: Drought’s physiological footprint: implications for crop improvement in rice
+
+  [124] Match: DOI
+        DOI:   10.1016/j.eja.2022.126633
+        WoS:   Exploration of feasible rice-based crop rotation systems to coordinate productivity, resource use ef
+        Scopus: Exploration of feasible rice-based crop rotation systems to coordinate productivity, resource use ef
+
+  [125] Match: DOI
+        DOI:   10.1016/j.ijgfs.2025.101227
+        WoS:   Multidimensional assessment of menus of public schools in the interior of Brazil
+        Scopus: Multidimensional assessment of menus of public schools in the interior of Brazil
+
+  [126] Match: DOI
+        DOI:   10.1016/j.fcr.2024.109366
+        WoS:   Field and simulation studies on yield, water and nitrogen dynamics and use efficiency in rice-wheat 
+        Scopus: Field and simulation studies on yield, water and nitrogen dynamics and use efficiency in rice-wheat 
+
+  [127] Match: DOI
+        DOI:   10.1016/j.jenvman.2021.113130
+        WoS:   Exploring the optimal crop planting structure to balance water saving, food security and incomes und
+        Scopus: Exploring the optimal crop planting structure to balance water saving, food security and incomes und
+
+  [128] Match: DOI
+        DOI:   10.1007/s13280-022-01711-5
+        WoS:   Blue-green water utilization in rice-fish cultivation towards sustainable food production
+        Scopus: Blue–green water utilization in rice–fish cultivation towards sustainable food production
+
+  [129] Match: DOI
+        DOI:   10.1016/j.eiar.2025.107821
+        WoS:   Sustainability on the plate: Unveiling the environmental footprint of pasta supply chain through Lif
+        Scopus: Sustainability on the plate: Unveiling the environmental footprint of pasta supply chain through Lif
+
+  [130] Match: DOI
+        DOI:   10.1038/s41467-024-52858-6
+        WoS:   The role of farm subsidies in changing India's water footprint
+        Scopus: The role of farm subsidies in changing India’s water footprint
+
+  [131] Match: DOI
+        DOI:   10.3390/su14063494
+        WoS:   Water-Energy-Food Nexus Approach to Assess Crop Trading in Saudi Arabia
+        Scopus: Water-Energy-Food Nexus Approach to Assess Crop Trading in Saudi Arabia
+
+  [132] Match: DOI
+        DOI:   10.3390/w13091249
+        WoS:   Water Footprint, Blue Water Scarcity, and Economic Water Productivity of Irrigated Crops in Peshawar
+        Scopus: Water footprint, blue water scarcity, and economic water productivity of irrigated crops in Peshawar
+
+  [133] Match: TITLE (similarity: 100.00%)
+        DOI:   N/A
+        WoS:   LIFE CYCLE ASSESSMENT OF NPK FERTILIZERS IN RICE PRODUCTION IN NORTHERN IRAN
+        Scopus: LIFE CYCLE ASSESSMENT OF NPK FERTILIZERS IN RICE PRODUCTION IN NORTHERN IRAN
+
+  [134] Match: DOI
+        DOI:   10.3389/fsufs.2021.632199
+        WoS:   Crop Production Allocations for Saving Water and Improving Calorie Supply in China
+        Scopus: Crop Production Allocations for Saving Water and Improving Calorie Supply in China
+
+  [135] Match: DOI
+        DOI:   10.3390/su172210359
+        WoS:   Impact of Low CO2 Footprint-Dissolution Treatment of Silica and Potassium-Rich Biomass Ashes on the 
+        Scopus: Impact of Low CO<sub>2</sub> Footprint-Dissolution Treatment of Silica and Potassium-Rich Biomass As
+
+  [136] Match: DOI
+        DOI:   10.1016/j.jclepro.2023.138715
+        WoS:   Significant increase in gray water footprint enhanced the degradation risk of cropland system in Chi
+        Scopus: Significant increase in gray water footprint enhanced the degradation risk of cropland system in Chi
+
+  [137] Match: DOI
+        DOI:   10.17576/jkukm-2024-36(6)-08
+        WoS:   (Water Footprint Assessment of Paddy Cultivation in Muda Area Malaysia)
+        Scopus: N/A
+
+  [138] Match: DOI
+        DOI:   10.1080/2150704X.2023.2264494
+        WoS:   The impact of rice cultivation in green and blue water on the economic productivity of the valley re
+        Scopus: The impact of rice cultivation in green and blue water on the economic productivity of the valley re
+
+  [139] Match: DOI
+        DOI:   10.1016/j.scitotenv.2024.174244
+        WoS:   How does virtual water influence the water stress pattern in Africa? A research perspective from the
+        Scopus: How does virtual water influence the water stress pattern in Africa? A research perspective from the
+
+  [140] Match: DOI
+        DOI:   10.1007/s43621-025-00841-6
+        WoS:   The role of agricultural ashes (rice husk ash, coffee husk ash, sugarcane bagasse ash, palm oil fuel
+        Scopus: The role of agricultural ashes (rice husk ash, coffee husk ash, sugarcane bagasse ash, palm oil fuel
+
+  [141] Match: DOI
+        DOI:   10.3390/w15152713
+        WoS:   Water Use in Australian Irrigated Agriculture-Sentiments of Twitter Users
+        Scopus: Water Use in Australian Irrigated Agriculture—Sentiments of Twitter Users
+
+  [142] Match: DOI
+        DOI:   10.1016/j.biteb.2022.101234
+        WoS:   Life cycle carbon, energy, water, and landuse footprints of agricultural residue-based biojet fuel i
+        Scopus: Life cycle carbon, energy, water, and landuse footprints of agricultural residue-based biojet fuel i
+
+  [143] Match: DOI
+        DOI:   10.1088/1748-9326/ada0ca
+        WoS:   Socio-economic, environmental and health impacts of dietary transformation in Bangladesh
+        Scopus: Socio-economic, environmental and health impacts of dietary transformation in Bangladesh
+
+  [144] Match: DOI
+        DOI:   10.3390/w18010009
+        WoS:   Evolution and Driving Factors of Water Footprints for Major Grain Crops: Evidence from China's Main 
+        Scopus: Evolution and Driving Factors of Water Footprints for Major Grain Crops: Evidence from China’s Main 
+
+  [145] Match: DOI
+        DOI:   10.1016/j.pedsph.2022.06.045
+        WoS:   Carbon and water footprints of major crop production in India
+        Scopus: Carbon and water footprints of major crop production in India
+
+  [146] Match: DOI
+        DOI:   10.1007/s43538-025-00404-3
+        WoS:   Water-energy-environment nexus for global food security and ecosystem sustainability-insight from en
+        Scopus: Water-energy-environment nexus for global food security and ecosystem sustainability-insight from en
+
+  [147] Match: DOI
+        DOI:   10.3390/w17091262
+        WoS:   Intermittent Rainfed Rice var. INIA 516 LM1: A Sustainable Alternative for the Huallaga River Basin
+        Scopus: Intermittent Rainfed Rice var. INIA 516 LM1: A Sustainable Alternative for the Huallaga River Basin
+
+  [148] Match: DOI
+        DOI:   10.1002/jsfa.11186
+        WoS:   Modelling the effect of changing transplanting date on consumptive water footprints for paddy under 
+        Scopus: Modelling the effect of changing transplanting date on consumptive water footprints for paddy under 
+
+  [149] Match: DOI
+        DOI:   10.3390/su17125501
+        WoS:   Provincial-Level Carbon-Reduction Potential for Agricultural Irrigation in China
+        Scopus: Provincial-Level Carbon-Reduction Potential for Agricultural Irrigation in China
+
+  [150] Match: DOI
+        DOI:   10.1016/j.ijbiomac.2025.141012
+        WoS:   Cellulose-based phosphorylated bamboo with slow urea release and lower carbon footprints improves ra
+        Scopus: Cellulose-based phosphorylated bamboo with slow urea release and lower carbon footprints improves ra
+
+  [151] Match: DOI
+        DOI:   10.1007/s42729-024-01993-6
+        WoS:   Assessment of Management Practices for Improving Productivity, Profitability, and Energy-Carbon-Wate
+        Scopus: Assessment of Management Practices for Improving Productivity, Profitability, and Energy-Carbon-Wate
+
+  [152] Match: DOI
+        DOI:   10.3390/su142013649
+        WoS:   Spatial Pattern of Water Footprints for Crop Production in Northeast China
+        Scopus: Spatial Pattern of Water Footprints for Crop Production in Northeast China
+
+  [153] Match: DOI
+        DOI:   10.1016/j.resconrec.2024.107530
+        WoS:   Workable solutions for sustainably feeding the Chinese population
+        Scopus: Workable solutions for sustainably feeding the Chinese population
+
+  [154] Match: DOI
+        DOI:   10.2166/wpt.2025.071
+        WoS:   Optimizing water footprints and yield sustainability in Boro rice through alternate wetting and inte
+        Scopus: Optimizing water footprints and yield sustainability in Boro rice through alternate wetting and inte
+
+  [155] Match: DOI
+        DOI:   10.1016/j.ecolind.2022.109083
+        WoS:   A decoupling analysis framework for agricultural sustainability and economic development based on vi
+        Scopus: A decoupling analysis framework for agricultural sustainability and economic development based on vi
+
+  [156] Match: DOI
+        DOI:   10.2166/wp.2021.168
+        WoS:   Trans-regional rice supply paradigm reveals unsustainable water use in China
+        Scopus: Trans-regional rice supply paradigm reveals unsustainable water use in China
+
+  [157] Match: DOI
+        DOI:   10.1016/j.scitotenv.2021.150741
+        WoS:   Climate change impact on major crop yield and water footprint under CMIP6 climate projections in rep
+        Scopus: Climate change impact on major crop yield and water footprint under CMIP6 climate projections in rep
+
+  [158] Match: DOI
+        DOI:   10.1016/j.scitotenv.2020.141897
+        WoS:   Formation mechanism and step effect analysis of the crop gray water footprint in rice production
+        Scopus: Formation mechanism and step effect analysis of the crop gray water footprint in rice production
+
+  [159] Match: DOI
+        DOI:   10.1002/jctb.7547
+        WoS:   Sustainability assessment of lignocellulosic biorefineries based on sequential pretreatments
+        Scopus: Sustainability assessment of lignocellulosic biorefineries based on sequential pretreatments
+
+  [160] Match: DOI
+        DOI:   10.1016/j.agwat.2025.109898
+        WoS:   Optimization of cropping structure of staple crops and benefit evaluation based on carbon-water foot
+        Scopus: Optimization of cropping structure of staple crops and benefit evaluation based on carbon-water foot
+
+  [161] Match: DOI
+        DOI:   10.1007/s13201-026-02776-3
+        WoS:   Assessment of machine learning models to forecast water footprints of rice production
+        Scopus: Assessment of machine learning models to forecast water footprints of rice production
+
+  [162] Match: DOI
+        DOI:   10.1016/j.spc.2023.04.019
+        WoS:   Ecological footprint, water scarcity footprint, and benefit to cost ratio analysis towards sustainab
+        Scopus: Ecological footprint, water scarcity footprint, and benefit to cost ratio analysis towards sustainab
+
+  [163] Match: DOI
+        DOI:   10.3390/hydrology9120210
+        WoS:   Water Footprint Assessment for Irrigated Paddy Cultivation in Walawe Irrigation Scheme, Sri Lanka
+        Scopus: Water Footprint Assessment for Irrigated Paddy Cultivation in Walawe Irrigation Scheme, Sri Lanka
+
+  [164] Match: DOI
+        DOI:   10.1002/jsfa.12675
+        WoS:   Dry direct-seeded rice has higher energy and carbon production efficiencies without reducing economi
+        Scopus: Dry direct-seeded rice has higher energy and carbon production efficiencies without reducing economi
+
+  [165] Match: DOI
+        DOI:   10.1007/s13399-026-07057-2
+        WoS:   Cement-catalyzed co-pyrolysis of rice straw (RS) and waste polypropylene (PP): a carbon footprint re
+        Scopus: Cement-catalyzed co-pyrolysis of rice straw (RS) and waste polypropylene (PP): a carbon footprint re
+
+  [166] Match: DOI
+        DOI:   10.1016/j.pedsph.2022.11.001
+        WoS:   Life cycle greenhouse gas emissions from five contrasting rice production systems in the tropics
+        Scopus: Life cycle greenhouse gas emissions from five contrasting rice production systems in the tropics
+
+  [167] Match: DOI
+        DOI:   10.1016/j.agwat.2024.109269
+        WoS:   A comparative assessment of grey water footprint estimation methods in paddy fields
+        Scopus: A comparative assessment of grey water footprint estimation methods in paddy fields
+
+  [168] Match: DOI
+        DOI:   10.1016/j.jenvman.2023.119033
+        WoS:   Exploring site-specific N application rate to reduce N footprint and increase crop production for gr
+        Scopus: Exploring site-specific N application rate to reduce N footprint and increase crop production for gr
+
+  [169] Match: DOI
+        DOI:   10.3390/agronomy11101964
+        WoS:   Soil Organic Carbon and System Environmental Footprint in Sugarcane-Based Cropping Systems Are Impro
+        Scopus: Soil organic carbon and system environmental footprint in sugarcane-based cropping systems are impro
+
+  [170] Match: DOI
+        DOI:   10.1016/j.agsy.2025.104620
+        WoS:   Integrated assessment of carbon footprint and net ecosystem economic benefits of black rice under co
+        Scopus: Integrated assessment of carbon footprint and net ecosystem economic benefits of black rice under co
+
+  [171] Match: DOI
+        DOI:   10.1016/j.jmrt.2023.06.041
+        WoS:   Environmentally friendly use of rice husk ash and recycled glass waste to produce ultra-high- perfor
+        Scopus: Environmentally friendly use of rice husk ash and recycled glass waste to produce ultra-high-perform
+
+  [172] Match: DOI
+        DOI:   10.1016/j.energy.2022.126535
+        WoS:   Integrated assessment of water footprint and energy production efficiency in different rice-rape rot
+        Scopus: Integrated assessment of water footprint and energy production efficiency in different rice-rape rot
+
+  [173] Match: TITLE (similarity: 100.00%)
+        DOI:   10.11113/mjfas.v18n4.2601
+        WoS:   Water Footprint of Rice Production in Malaysia: A Review of Evapotranspiration and Factors of Climat
+        Scopus: Water Footprint of Rice Production in Malaysia: A Review of Evapotranspiration and Factors of Climat
+
+  [174] Match: DOI
+        DOI:   10.1038/s41467-023-39454-w
+        WoS:   Enhancing rice production sustainability and resilience via reactivating small water bodies for irri
+        Scopus: Enhancing rice production sustainability and resilience via reactivating small water bodies for irri
+
+  [175] Match: DOI
+        DOI:   10.1007/s10661-024-13287-6
+        WoS:   Potential impact of climate change on water productivity and water footprints of rice and wheat in t
+        Scopus: Potential impact of climate change on water productivity and water footprints of rice and wheat in t
+
+  [176] Match: DOI
+        DOI:   10.1038/s43016-024-01081-z
+        WoS:   Improved alternate wetting and drying irrigation increases global water productivity
+        Scopus: Improved alternate wetting and drying irrigation increases global water productivity
+
+  [177] Match: DOI
+        DOI:   10.1088/1748-9326/ad5a24
+        WoS:   Large agri-food corporations in the global staple and cash crops markets: a quantitative analysis of
+        Scopus: Large agri-food corporations in the global staple and cash crops markets: a quantitative analysis of
+
+  [178] Match: DOI
+        DOI:   10.1016/j.agwat.2021.107403
+        WoS:   Integrated assessment of carbon footprint and economic profit from paddy fields under microbial deca
+        Scopus: Integrated assessment of carbon footprint and economic profit from paddy fields under microbial deca
+
+  [179] Match: DOI
+        DOI:   10.1016/j.rser.2023.113756
+        WoS:   Using industrial wastes for rice-wheat cropping and food-energy-carbon-water-economic nexus to the s
+        Scopus: Using industrial wastes for rice-wheat cropping and food-energy-carbon-water-economic nexus to the s
+
+  [180] Match: DOI
+        DOI:   10.1038/s41598-025-08906-2
+        WoS:   High-resolution water footprints of major crops in China from cities to grids
+        Scopus: High-resolution water footprints of major crops in China from cities to grids
+
+  [181] Match: DOI
+        DOI:   10.1007/s42106-025-00387-7
+        WoS:   Regional Variations in Carbon Footprints of Major Crops in Türkiye and Assessing the Relationship Be
+        Scopus: Regional Variations in Carbon Footprints of Major Crops in Türkiye and Assessing the Relationship Be
+
+  [182] Match: DOI
+        DOI:   10.1007/s10333-021-00846-7
+        WoS:   Rice-wheat system in the northwest Indo-Gangetic plains of South Asia: issues and technological inte
+        Scopus: Rice–wheat system in the northwest Indo-Gangetic plains of South Asia: issues and technological inte
+
+  [183] Match: DOI
+        DOI:   10.1016/j.inoche.2024.113387
+        WoS:   Rice starch-agar composite film decorated with green synthesized silver nanoparticles with superior 
+        Scopus: Rice starch-agar composite film decorated with green synthesized silver nanoparticles with superior 
+
+  [184] Match: DOI
+        DOI:   10.1007/s10333-022-00919-1
+        WoS:   Impact of tillage cum crop establishment methods and nutrient management strategies on wet rice (Ory
+        Scopus: Impact of tillage cum crop establishment methods and nutrient management strategies on wet rice (Ory
+
+  [185] Match: DOI
+        DOI:   10.3389/fsufs.2023.1173916
+        WoS:   Effect of different rice planting methods on the water, energy and carbon footprints of subsequent w
+        Scopus: Effect of different rice planting methods on the water, energy and carbon footprints of subsequent w
+
+  [186] Match: DOI
+        DOI:   10.1016/j.agwat.2026.110283
+        WoS:   Multidimensional sustainability assessment of rice cultivation systems in cold regions: Trade-offs a
+        Scopus: Multidimensional sustainability assessment of rice cultivation systems in cold regions: Trade-offs a
+
+  [187] Match: DOI
+        DOI:   10.1016/j.scitotenv.2022.160428
+        WoS:   The food-energy-water-carbon nexus of the rice-wheat production system in the western Indo-Gangetic 
+        Scopus: The food-energy-water-carbon nexus of the rice-wheat production system in the western Indo-Gangetic 
+
+  [188] Match: DOI
+        DOI:   10.1016/j.nexus.2025.100509
+        WoS:   Achieving environmental stewardship through climate-smart agriculture practices in intensive cereal 
+        Scopus: Achieving environmental stewardship through climate-smart agriculture practices in intensive cereal 
+
+  [189] Match: DOI
+        DOI:   10.1017/S0376892924000195
+        WoS:   Urban water footprint in Mashhad, Iran's second largest city
+        Scopus: Urban water footprint in Mashhad, Iran’s second largest city
+
+  [190] Match: DOI
+        DOI:   10.3390/agronomy12102494
+        WoS:   Water Footprint Assessment of Green and Traditional Cultivation of Crops in the Huang-Huai-Hai Farmi
+        Scopus: Water Footprint Assessment of Green and Traditional Cultivation of Crops in the Huang-Huai-Hai Farmi
+
+  [191] Match: DOI
+        DOI:   10.1016/j.jclepro.2022.133154
+        WoS:   Improvement of resource use efficiency versus mitigation of environmental impacts in rice production
+        Scopus: Improvement of resource use efficiency versus mitigation of environmental impacts in rice production
+
+  [192] Match: DOI
+        DOI:   10.3389/frwa.2022.941722
+        WoS:   The water-energy nexus in irrigated agriculture in South Asia: Critical hotspots of irrigation water
+        Scopus: The water–energy nexus in irrigated agriculture in South Asia: Critical hotspots of irrigation water
+
+  [193] Match: DOI
+        DOI:   10.1680/jadcr.23.00190
+        WoS:   Application of biomineralization for enhancement of interfacial properties of rice husk ash blended 
+        Scopus: Application of biomineralisation for enhancement of interfacial properties of rice husk ash blended 
+
+  [194] Match: DOI
+        DOI:   10.1016/j.agwat.2024.109110
+        WoS:   Enhancing agricultural sustainability with water and crop management strategies in modern irrigation
+        Scopus: Enhancing agricultural sustainability with water and crop management strategies in modern irrigation
+
+  [195] Match: DOI
+        DOI:   10.2166/wcc.2024.692
+        WoS:   Impact of forest cover and human intervention on crop water footprint
+        Scopus: Impact of forest cover and human intervention on crop water footprint
+
+  [196] Match: DOI
+        DOI:   10.18805/LR-4812
+        WoS:   Green and Blue Water Footprint for Groundnut ( Arachis hypogaea L.) under Irrigation Scheduling and 
+        Scopus: Green and Blue Water Footprint for Groundnut (Arachis hypogaea L.) under Irrigation Scheduling and N
+
+  [197] Match: DOI
+        DOI:   10.3390/su16125030
+        WoS:   Coupling Coordination Evaluation of Water and Soil Resource Matching and Grain Production, and Analy
+        Scopus: Coupling Coordination Evaluation of Water and Soil Resource Matching and Grain Production, and Analy
+
+  [198] Match: DOI
+        DOI:   10.1017/S1368980020003729
+        WoS:   Designing a healthy, low-cost and environmentally sustainable food basket: an optimisation study
+        Scopus: Designing a healthy, low-cost and environmentally sustainable food basket: An optimisation study
+
+  [199] Match: DOI
+        DOI:   10.1016/j.nexus.2023.100205
+        WoS:   Land suitability class and implications to Land-Water-Food Nexus: A case of rice cultivation in Thai
+        Scopus: Land suitability class and implications to Land-Water-Food Nexus: A case of rice cultivation in Thai
+
+  [200] Match: DOI
+        DOI:   10.1016/j.compag.2025.111110
+        WoS:   A finite element-MPC framework for optimizing energy-water footprint in direct-seeded rice with stra
+        Scopus: A finite element-MPC framework for optimizing energy-water footprint in direct-seeded rice with stra
+
+  [201] Match: DOI
+        DOI:   10.1088/1748-9326/aca4e5
+        WoS:   Spatial-temporal variations in green, blue and gray water footprints of crops: how do socioeconomic 
+        Scopus: Spatial-temporal variations in green, blue and gray water footprints of crops: how do socioeconomic 
+
+  [202] Match: DOI
+        DOI:   10.1016/j.jclepro.2022.135437
+        WoS:   Global food crop redistribution reduces water footprint without compromising species diversity
+        Scopus: Global food crop redistribution reduces water footprint without compromising species diversity
+
+  [203] Match: DOI
+        DOI:   10.1016/j.ecolind.2025.113739
+        WoS:   Assessing climate change impacts on water footprint of crop production and crop yield: a case study 
+        Scopus: Assessing climate change impacts on water footprint of crop production and crop yield: a case study 
+
+  [204] Match: DOI
+        DOI:   10.1016/j.energy.2023.128615
+        WoS:   Data envelopment analysis based energy optimization for improving energy efficiency in wheat establi
+        Scopus: Data envelopment analysis based energy optimization for improving energy efficiency in wheat establi
+
+  [205] Match: DOI
+        DOI:   10.2166/ws.2024.012
+        WoS:   Estimation of irrigation water requirements in the Gharb-irrigated perimeter (north-western Morocco)
+        Scopus: Estimation of irrigation water requirements in the Gharb-irrigated perimeter (north-western Morocco)
+
+  [206] Match: DOI
+        DOI:   10.3390/su14116682
+        WoS:   An Analysis of Water Use Efficiency of Staple Grain Productions in China: Based on the Crop Water Fo
+        Scopus: An Analysis of Water Use Efficiency of Staple Grain Productions in China: Based on the Crop Water Fo
+
+  [207] Match: DOI
+        DOI:   10.1016/j.envpol.2024.124457
+        WoS:   A modified approach of the agricultural grey water footprint considering the nitrogen fixation effec
+        Scopus: A modified approach of the agricultural grey water footprint considering the nitrogen fixation effec
+
+  [208] Match: DOI
+        DOI:   10.1002/app.53101
+        WoS:   Development of biobased polyol from epoxidized soybean oil for polyurethane anti-smudge coatings
+        Scopus: Development of biobased polyol from epoxidized soybean oil for polyurethane anti-smudge coatings
+
+  [209] Match: DOI
+        DOI:   10.1016/j.conbuildmat.2023.130770
+        WoS:   Hygrothermal properties of insulation materials from rice straw and natural binders for buildings
+        Scopus: Hygrothermal properties of insulation materials from rice straw and natural binders for buildings
+
+  [210] Match: DOI
+        DOI:   10.1016/j.agwat.2022.107805
+        WoS:   Spatial and temporal sensitivity of water footprint assessment in crop production to modelling input
+        Scopus: Spatial and temporal sensitivity of water footprint assessment in crop production to modelling input
+
+  [211] Match: DOI
+        DOI:   10.1016/j.jclepro.2023.140194
+        WoS:   A new factorial sensitivity model for analyzing the impacts of climatic factors on crop water footpr
+        Scopus: A new factorial sensitivity model for analyzing the impacts of climatic factors on crop water footpr
+
+  [212] Match: DOI
+        DOI:   10.1016/j.agsy.2025.104524
+        WoS:   Water optimization of ground cover rice production system to synergistically achieve carbon and nitr
+        Scopus: Water optimization of ground cover rice production system to synergistically achieve carbon and nitr
+
+  [213] Match: DOI
+        DOI:   10.3390/foods14030528
+        WoS:   Effects of Drip Irrigations with Different Irrigation Intervals and Levels on Nutritional Traits of 
+        Scopus: Effects of Drip Irrigations with Different Irrigation Intervals and Levels on Nutritional Traits of 
+
+  [214] Match: DOI
+        DOI:   10.1016/j.gsd.2020.100498
+        WoS:   Spatio-temporal assessment of groundwater depletion in Punjab, India
+        Scopus: Spatio-temporal assessment of groundwater depletion in Punjab, India
+
+  [215] Match: DOI
+        DOI:   10.1016/j.ceramint.2022.12.032
+        WoS:   Mechanical properties of an eco-friendly one-part alkali-activated binder: Influence of metakaolin a
+        Scopus: Mechanical properties of an eco-friendly one-part alkali-activated binder: Influence of metakaolin a
+
+  [216] Match: DOI
+        DOI:   10.3390/w17050717
+        WoS:   Nitrogen and Gray Water Footprints of Various Cropping Systems in Irrigation Districts: A Case from 
+        Scopus: Nitrogen and Gray Water Footprints of Various Cropping Systems in Irrigation Districts: A Case from 
+
+  [217] Match: DOI
+        DOI:   10.1016/j.fcr.2024.109609
+        WoS:   Stubble height and irrigation significantly influenced the carbon footprint of ratoon rice cropping 
+        Scopus: Stubble height and irrigation significantly influenced the carbon footprint of ratoon rice cropping 
+
+  [218] Match: DOI
+        DOI:   10.3389/fsufs.2024.1375092
+        WoS:   Carbon footprint research and mitigation strategies for rice-cropping systems in China: a review
+        Scopus: Carbon footprint research and mitigation strategies for rice-cropping systems in China: a review
+
+  [219] Match: DOI
+        DOI:   10.1016/j.scitotenv.2021.148340
+        WoS:   Biogas feedstock potentials and related water footprints from residues in China and the European Uni
+        Scopus: Biogas feedstock potentials and related water footprints from residues in China and the European Uni
+
+  [220] Match: DOI
+        DOI:   10.1080/19648189.2023.2219722
+        WoS:   Effect of rice husk ash as partial replacement of ordinary Portland cement in ultra-high-performance
+        Scopus: Effect of rice husk ash as partial replacement of ordinary Portland cement in ultra-high-performance
+
+  [221] Match: DOI
+        DOI:   10.1108/IJSE-04-2024-0300
+        WoS:   Agricultural water footprints: a study of agro-climatic zones in India
+        Scopus: Agricultural water footprints: a study of agro-climatic zones in India
+
+  [222] Match: DOI
+        DOI:   10.1016/j.jclepro.2026.147811
+        WoS:   Optimization of cropping structures in mega-city food systems for integrated water-saving, energy ef
+        Scopus: Optimization of cropping structures in mega-city food systems for integrated water-saving, energy ef
+
+  [223] Match: DOI
+        DOI:   10.1111/gcb.70739
+        WoS:   Spatiotemporal Trade-Offs and Synergies Among Environmental Footprints of Grain Crop Production in C
+        Scopus: Spatiotemporal Trade-Offs and Synergies Among Environmental Footprints of Grain Crop Production in C
+
+  [224] Match: DOI
+        DOI:   10.1016/j.indic.2025.100695
+        WoS:   The effect of irrigation practices on stress-related physiological characteristics, water productivi
+        Scopus: The effect of irrigation practices on stress-related physiological characteristics, water productivi
+
+  [225] Match: DOI
+        DOI:   10.1093/ajcn/nqab258
+        WoS:   Balancing a sustained pursuit of nutrition, health, affordability and climate goals: exploring the c
+        Scopus: Balancing a sustained pursuit of nutrition, health, affordability and climate goals: exploring the c
+
+  [226] Match: DOI
+        DOI:   10.1007/s11356-023-30110-w
+        WoS:   Attribution of lake eutrophication risk to anthropogenic forcing adjacent to the agriculture areas: 
+        Scopus: Attribution of lake eutrophication risk to anthropogenic forcing adjacent to the agriculture areas: 
+
+  [227] Match: DOI
+        DOI:   10.1016/j.jenvman.2021.114116
+        WoS:   Blue, green, and grey water footprints assessment for paddy irrigation-drainage system
+        Scopus: Blue, green, and grey water footprints assessment for paddy irrigation-drainage system
+
+  [228] Match: DOI
+        DOI:   10.1007/s11769-025-1554-x
+        WoS:   Agricultural Water Sustainability Evaluation in Guangdong Province of China Through Perspective of W
+        Scopus: Agricultural Water Sustainability Evaluation in Guangdong Province of China Through Perspective of W
+
+  [229] Match: DOI
+        DOI:   10.1016/j.jia.2022.12.005
+        WoS:   The potential of green manure to increase soil carbon sequestration and reduce the yield-scaled carb
+        Scopus: The potential of green manure to increase soil carbon sequestration and reduce the yield-scaled carb
+
+  [230] Match: DOI
+        DOI:   10.3390/rs14195022
+        WoS:   Spatial Representativeness of Eddy Covariance Measurements in a Coniferous Plantation Mixed with Cro
+        Scopus: Spatial Representativeness of Eddy Covariance Measurements in a Coniferous Plantation Mixed with Cro
+
+  [231] Match: DOI
+        DOI:   10.1016/j.agsy.2021.103347
+        WoS:   Towards sustainable circular agriculture: An integrated optimization framework for crop-livestock-bi
+        Scopus: Towards sustainable circular agriculture: An integrated optimization framework for crop-livestock-bi
+
+  [232] Match: DOI
+        DOI:   10.1504/IJESD.2023.133828
+        WoS:   Reducing environmental pressures produced by household food waste: initiatives and policy challenges
+        Scopus: Reducing environmental pressures produced by household food waste: initiatives and policy challenges
+
+  [233] Match: DOI
+        DOI:   10.1016/j.eja.2024.127256
+        WoS:   On-farm evidence on breaking yield barriers through optimizing wheat cropping system in Indo Gangeti
+        Scopus: On-farm evidence on breaking yield barriers through optimizing wheat cropping system in Indo Gangeti
+
+  [234] Match: DOI
+        DOI:   10.1108/BFJ-10-2024-1037
+        WoS:   Dietary water footprint of most-consumed foods: a national consumption-based assessment
+        Scopus: Dietary water footprint of most-consumed foods: a national consumption-based assessment
+
+  [235] Match: DOI
+        DOI:   10.1016/j.compag.2021.106501
+        WoS:   Estimation of the rice water footprint based on machine learning algorithms
+        Scopus: Estimation of the rice water footprint based on machine learning algorithms
+
+  [236] Match: DOI
+        DOI:   10.1016/j.jenvman.2025.126915
+        WoS:   Searching "win-win" solutions for water saving in rice cultivation under different soil textures: Yi
+        Scopus: Searching “win-win” solutions for water saving in rice cultivation under different soil textures: Yi
+
+  [237] Match: DOI
+        DOI:   10.1016/j.chemosphere.2022.133528
+        WoS:   Prospects of utilizing seawater as a reaction medium for pretreatment and saccharification of rice s
+        Scopus: Prospects of utilizing seawater as a reaction medium for pretreatment and saccharification of rice s
+
+  [238] Match: DOI
+        DOI:   10.1016/j.agee.2023.108675
+        WoS:   Identification of a resource-efficient integrated crop management practice for the rice-wheat rotati
+        Scopus: Identification of a resource-efficient integrated crop management practice for the rice-wheat rotati
+
+  [239] Match: DOI
+        DOI:   10.1016/j.agwat.2024.109181
+        WoS:   Mitigating methane emissions and carbon footprint in rice-wheat rotation system by straw centralized
+        Scopus: Mitigating methane emissions and carbon footprint in rice-wheat rotation system by straw centralized
+
+  [240] Match: DOI
+        DOI:   10.1007/s00271-025-01019-8
+        WoS:   Projecting rice water footprint for different shared socioeconomic pathways under arid climate condi
+        Scopus: Projecting rice water footprint for different shared socioeconomic pathways under arid climate condi
+
+  [241] Match: DOI
+        DOI:   10.3390/su132111633
+        WoS:   Evolution of the Global Scientific Research on the Environmental Impact of Food Production from 1970
+        Scopus: Evolution of the global scientific research on the environmental impact of food production from 1970
+
+  [242] Match: DOI
+        DOI:   10.1016/j.jclepro.2021.128666
+        WoS:   Emergy analysis of the blue and green water resources in crop production systems
+        Scopus: Emergy analysis of the blue and green water resources in crop production systems
+
+  [243] Match: DOI
+        DOI:   10.1088/2515-7620/ae0982
+        WoS:   Unveiling the future water footprint of paddy cultivation: evidence from a humid tropical country
+        Scopus: Unveiling the future water footprint of paddy cultivation: evidence from a humid tropical country
+
+  [244] Match: DOI
+        DOI:   10.1088/2515-7620/acfb61
+        WoS:   A simultaneous equations approach to analyze the sustainable water-energy-food nexus in South Korea
+        Scopus: A simultaneous equations approach to analyze the sustainable water-energy-food nexus in South Korea
+
+  [245] Match: DOI
+        DOI:   10.1007/s10098-021-02101-3
+        WoS:   Development of a low-carbon, healthy and innovative value-added riceberry rice product through life 
+        Scopus: Development of a low-carbon, healthy and innovative value-added riceberry rice product through life 
+
+  [246] Match: DOI
+        DOI:   10.1007/s10333-024-00992-8
+        WoS:   Partitioning water footprints of rice for assessing their implications in the face of climate change
+        Scopus: Partitioning water footprints of rice for assessing their implications in the face of climate change
+
+  [247] Match: DOI
+        DOI:   10.1016/j.jclepro.2025.145348
+        WoS:   Optimizing agricultural water-land resource allocation in water-economic-environment cycles consider
+        Scopus: Optimizing agricultural water-land resource allocation in water-economic-environment cycles consider
+
+  [248] Match: DOI
+        DOI:   10.1016/j.cropro.2018.12.016
+        WoS:   The efficacy of chemical options to control Echinochloa crus-galli in dry-seeded rice under alternat
+        Scopus: The efficacy of chemical options to control Echinochloa crus-galli in dry-seeded rice under alternat
+
+  [249] Match: DOI
+        DOI:   10.2166/wst.2013.759
+        WoS:   The water footprint of Milan
+        Scopus: The water footprint of Milan
+
+  [250] Match: DOI
+        DOI:   10.1016/j.ecolecon.2010.11.012
+        WoS:   The blue, green and grey water footprint of rice from production and consumption perspectives
+        Scopus: The blue, green and grey water footprint of rice from production and consumption perspectives
+
+  [251] Match: DOI
+        DOI:   10.3389/fsufs.2018.00067
+        WoS:   Replacing Imports of Crop Based Commodities by Domestic Production in Finland: Potential to Reduce V
+        Scopus: Replacing Imports of Crop Based Commodities by Domestic Production in Finland: Potential to Reduce V
+
+  [252] Match: DOI
+        DOI:   10.1080/02508060.2018.1515570
+        WoS:   Water footprint for Korean rice products and virtual water trade in a water-energy-food nexus
+        Scopus: Water footprint for Korean rice products and virtual water trade in a water-energy-food nexus
+
+  [253] Match: DOI
+        DOI:   10.1007/s11269-018-2007-4
+        WoS:   Water Scarcity in Vietnam: a Point of View on Virtual Water Perspective
+        Scopus: Water Scarcity in Vietnam: a Point of View on Virtual Water Perspective
+
+  [254] Match: DOI
+        DOI:   10.1016/j.ecolind.2020.106634
+        WoS:   Evaluation of carbon, nitrogen footprint and primary energy demand under different rice production s
+        Scopus: Evaluation of carbon, nitrogen footprint and primary energy demand under different rice production s
+
+  [255] Match: DOI
+        DOI:   10.1016/j.jclepro.2018.11.197
+        WoS:   Life Cycle Assessment of Thai organic Horn Mali rice to evaluate the climate change, water use and b
+        Scopus: Life Cycle Assessment of Thai organic Hom Mali rice to evaluate the climate change, water use and bi
+
+  [256] Match: DOI
+        DOI:   10.1016/j.jclepro.2018.10.339
+        WoS:   Optimization of planning structure in irrigated district considering water footprint under uncertain
+        Scopus: Optimization of planning structure in irrigated district considering water footprint under uncertain
+
+  [257] Match: DOI
+        DOI:   10.1590/2318-0331.252020200017
+        WoS:   Water footprint analysis of temporary crops produced in Sao Carlos (SP), Brazil
+        Scopus: Water footprint analysis of temporary crops produced in São Carlos (SP), Brazil [Análise da pegada h
+
+  [258] Match: DOI
+        DOI:   10.3376/1081-1710(2008)33[191:COAMHN]2.0.CO;2
+        WoS:   Characterization of aquatic mosquito habitat, natural enemies, and immature mosquitoes in the Artibo
+        Scopus: Characterization of aquatic mosquito habitat, natural enemies, and immature mosquitoes in the Artibo
+
+  [259] Match: DOI
+        DOI:   10.1016/j.scitotenv.2019.01.264
+        WoS:   Water footprint of German agricultural imports: Local impacts due to global trade flows in a fifteen
+        Scopus: Water footprint of German agricultural imports: Local impacts due to global trade flows in a fifteen
+
+  [260] Match: TITLE (similarity: 100.00%)
+        DOI:   10.56093/ijas.v88i4.79099
+        WoS:   Water use, energy use efficiency and carbon footprint of transplanted rice (Oryza sativa) in respons
+        Scopus: Water use, energy use efficiency and carbon footprint of transplanted rice (Oryza sativa) in respons
+
+  [261] Match: DOI
+        DOI:   10.1016/j.jclepro.2015.03.068
+        WoS:   Water footprint analysis of second-generation bioethanol in Taiwan
+        Scopus: Water footprint analysis of second-generation bioethanol in Taiwan
+
+  [262] Match: DOI
+        DOI:   10.1016/j.jclepro.2019.03.212
+        WoS:   Effect of alternate wetting and drying water management on rice cultivation with low emissions and l
+        Scopus: Effect of alternate wetting and drying water management on rice cultivation with low emissions and l
+
+  [263] Match: DOI
+        DOI:   10.1016/j.jclepro.2020.120785
+        WoS:   Sustainable management of land, water, and fertilizer for rice production considering footprint fami
+        Scopus: Sustainable management of land, water, and fertilizer for rice production considering footprint fami
+
+  [264] Match: DOI
+        DOI:   10.1016/j.spc.2015.08.001
+        WoS:   Environmental sustainability issues in the food-energy-water nexus: Breakfast cereals and snacks
+        Scopus: Environmental sustainability issues in the food-energy-water nexus: Breakfast cereals and snacks
+
+  [265] Match: DOI
+        DOI:   10.1016/j.ecolecon.2013.01.015
+        WoS:   Sustainability of national consumption from a water resources perspective: The case study for France
+        Scopus: Sustainability of national consumption from a water resources perspective: The case study for France
+
+  [266] Match: DOI
+        DOI:   10.3390/w10081018
+        WoS:   Water Use and Rice Productivity for Irrigation Management Alternatives in Tanzania
+        Scopus: Water use and rice productivity for irrigation management alternatives in Tanzania
+
+  [267] Match: DOI
+        DOI:   10.1016/j.jhydrol.2020.124881
+        WoS:   Reducing food waste and changing cropping patterns to reduce water consumption and pollution in cere
+        Scopus: Reducing food waste and changing cropping patterns to reduce water consumption and pollution in cere
+
+  [268] Match: DOI
+        DOI:   10.1007/s13201-017-0551-3
+        WoS:   Water-food-energy nexus index: analysis of water-energy-food nexus of crop's production system apply
+        Scopus: Water–food–energy nexus index: analysis of water–energy–food nexus of crop’s production system apply
+
+  [269] Match: DOI
+        DOI:   10.1016/j.resconrec.2020.105099
+        WoS:   Food-centric interlinkages in agricultural food-energy-water nexus under climate change and irrigati
+        Scopus: Food-centric interlinkages in agricultural food-energy-water nexus under climate change and irrigati
+
+  [270] Match: DOI
+        DOI:   10.3390/su11216179
+        WoS:   A Sustainability Assessment of Five Major Food Crops' Water Footprints in China from 1978 to 2010
+        Scopus: A sustainability assessment of five major food crops' water footprints in China from 1978 to 2010
+
+  [271] Match: DOI
+        DOI:   10.1016/j.jclepro.2014.06.020
+        WoS:   Water footprint analysis of bioethanol energy crops in Taiwan
+        Scopus: Water footprint analysis of bioethanol energy crops in Taiwan
+
+  [272] Match: DOI
+        DOI:   10.3390/su10020242
+        WoS:   Assessment of Potential Climate Change Effects on the Rice Yield and Water Footprint in the Nanliuji
+        Scopus: Assessment of potential climate change effects on the rice yield and water footprint in the Nanliuji
+
+  [273] Match: DOI
+        DOI:   10.1007/s10333-014-0460-0
+        WoS:   Surface energy flux measurements in a flooded and an aerobic rice field using a single eddy-covarian
+        Scopus: Surface energy flux measurements in a flooded and an aerobic rice field using a single eddy-covarian
+
+  [274] Match: DOI
+        DOI:   10.3390/su71115548
+        WoS:   Evaluation of Tourism Water Capacity in Agricultural Heritage Sites
+        Scopus: Evaluation of tourism water capacity in agricultural heritage sites
+
+  [275] Match: DOI
+        DOI:   10.1016/j.agwat.2019.01.012
+        WoS:   Waterlogging and coastal salinity management through land shaping and cropping intensification in cl
+        Scopus: Waterlogging and coastal salinity management through land shaping and cropping intensification in cl
+
+  [276] Match: DOI
+        DOI:   10.1007/s11356-020-07656-0
+        WoS:   A case study for identifying the potential challenges of water resources in the Yilan area of Taiwan
+        Scopus: A case study for identifying the potential challenges of water resources in the Yilan area of Taiwan
+
+  [277] Match: DOI
+        DOI:   10.1016/j.rser.2014.12.036
+        WoS:   GHG footprint of major cities in India
+        Scopus: GHG footprint of major cities in India
+
+  [278] Match: DOI
+        DOI:   10.3389/fsufs.2019.00105
+        WoS:   A Climate Smartness Index (CSI) Based on Greenhouse Gas Intensity and Water Productivity: Applicatio
+        Scopus: A Climate Smartness Index (CSI) Based on Greenhouse Gas Intensity and Water Productivity: Applicatio
+
+  [279] Match: DOI
+        DOI:   10.1016/j.scitotenv.2020.140032
+        WoS:   Towards quantification of the national water footprint in rice production of China: A first assessme
+        Scopus: Towards quantification of the national water footprint in rice production of China: A first assessme
+
+  [280] Match: DOI
+        DOI:   10.1016/j.jclepro.2015.08.098
+        WoS:   The impact of changing food choices on the blue water scarcity footprint and greenhouse gas emission
+        Scopus: The impact of changing food choices on the blue water scarcity footprint and greenhouse gas emission
+
+  [281] Match: DOI
+        DOI:   10.1021/acs.est.8b05535
+        WoS:   Methane Emission Reductions from the Alternate Wetting and Drying of Rice Fields Detected Using the 
+        Scopus: Methane Emission Reductions from the Alternate Wetting and Drying of Rice Fields Detected Using the 
+
+  [282] Match: DOI
+        DOI:   10.2166/ws.2011.043
+        WoS:   How much water do we really use? A case study of the city state of Singapore
+        Scopus: How much water do we really use? A case study of the city state of Singapore
+
+  [283] Match: DOI
+        DOI:   10.1016/j.scitotenv.2019.03.304
+        WoS:   "More crop per drop": Exploring India's cereal water use since 2005
+        Scopus: “More crop per drop”: Exploring India's cereal water use since 2005
+
+  [284] Match: DOI
+        DOI:   10.1073/pnas.0812619106
+        WoS:   The water footprint of bioenergy
+        Scopus: The water footprint of bioenergy
+
+  [285] Match: DOI
+        DOI:   10.1016/j.scitotenv.2017.07.118
+        WoS:   Nitrogen losses and greenhouse gas emissions under different N and water management in a subtropical
+        Scopus: Nitrogen losses and greenhouse gas emissions under different N and water management in a subtropical
+
+  [286] Match: DOI
+        DOI:   10.3390/agronomy10101561
+        WoS:   Portfolios of Climate Smart Agriculture Practices in Smallholder Rice-Wheat System of Eastern Indo-G
+        Scopus: Portfolios of Climate Smart Agriculture Practices in Smallholder Rice-Wheat System of Eastern Indo-G
+
+  [287] Match: DOI
+        DOI:   10.3390/su12031180
+        WoS:   Sustainable Irrigation Management in Paddy Rice Agriculture: A Comparative Case Study of Karangasem 
+        Scopus: Sustainable irrigation management in paddy rice agriculture: A comparative case study of Karangasem 
+
+  [288] Match: DOI
+        DOI:   10.1016/j.jclepro.2020.123196
+        WoS:   A fuzzy fractional programming model for optimizing water footprint of crop planting and trading in 
+        Scopus: A fuzzy fractional programming model for optimizing water footprint of crop planting and trading in 
+
+  [289] Match: DOI
+        DOI:   10.1016/j.jclepro.2018.06.266
+        WoS:   Analyzing Egypt's water footprint based on trade balance and expenditure inequality
+        Scopus: Analyzing Egypt's water footprint based on trade balance and expenditure inequality
+
+  [290] Match: DOI
+        DOI:   10.1016/j.scitotenv.2020.137864
+        WoS:   Assessment of climate change impact on rice yield and water footprint of large-scale and individual 
+        Scopus: Assessment of climate change impact on rice yield and water footprint of large-scale and individual 
+
+  [291] Match: DOI
+        DOI:   10.1016/j.scitotenv.2018.06.258
+        WoS:   Greenhouse gas emissions and water footprints of typical dietary patterns in India
+        Scopus: Greenhouse gas emissions and water footprints of typical dietary patterns in India
+
+  [292] Match: DOI
+        DOI:   10.3390/agronomy10010098
+        WoS:   Assessment of Main Cereal Crop Trade Impacts on Water and Land Security in Iraq
+        Scopus: Assessment of main cereal crop trade impacts on water and land security in Iraq
+
+  [293] Match: DOI
+        DOI:   10.1007/s13369-018-3627-y
+        WoS:   Importing and Exporting Agricultural Crop Products: An Assessment of Virtual Water Flow (VWF) in Sau
+        Scopus: Importing and Exporting Agricultural Crop Products: An Assessment of Virtual Water Flow (VWF) in Sau
+
+  [294] Match: DOI
+        DOI:   10.1016/j.scitotenv.2017.05.028
+        WoS:   Quantifying the impact of climate change on crop yield and water footprint of rice in the Nam Oon Ir
+        Scopus: Quantifying the impact of climate change on crop yield and water footprint of rice in the Nam Oon Ir
+
+  [295] Match: DOI
+        DOI:   10.1007/s11367-015-1025-1
+        WoS:   Global guidance on environmental life cycle impact assessment indicators: progress and case study
+        Scopus: Global guidance on environmental life cycle impact assessment indicators: progress and case study
+
+  [296] Match: DOI
+        DOI:   10.1016/j.resconrec.2020.105150
+        WoS:   Energy and water footprints of cereal production in China
+        Scopus: Energy and water footprints of cereal production in China
+
+  [297] Match: DOI
+        DOI:   10.1016/j.scitotenv.2014.07.089
+        WoS:   Application of water footprint combined with a unified virtual crop pattern to evaluate crop water p
+        Scopus: Application of water footprint combined with a unified virtual crop pattern to evaluate crop water p
+
+  [298] Match: DOI
+        DOI:   10.5194/hess-15-1577-2011
+        WoS:   The green, blue and grey water footprint of crops and derived crop products
+        Scopus: The green, blue and grey water footprint of crops and derived crop products
+
+  [299] Match: DOI
+        DOI:   10.1002/jsfa.9591
+        WoS:   Healthy diet: a step toward a sustainable diet by reducing water footprint
+        Scopus: Healthy diet: a step toward a sustainable diet by reducing water footprint
+
+  [300] Match: DOI
+        DOI:   10.1029/2018WR023757
+        WoS:   Water Use Dynamics in Double Cropping of Rainfed Upland Rice and Irrigated Melons Produced Under Dro
+        Scopus: Water Use Dynamics in Double Cropping of Rainfed Upland Rice and Irrigated Melons Produced Under Dro
+
+  [301] Match: DOI
+        DOI:   10.1007/s11367-017-1286-y
+        WoS:   Freshwater use analysis of cassava for food feed fuel in the Mun River basin, Thailand
+        Scopus: Freshwater use analysis of cassava for food feed fuel in the Mun River basin, Thailand
+
+  [302] Match: DOI
+        DOI:   10.1016/j.ecolecon.2019.01.032
+        WoS:   International trade of global scarce water use in agriculture: Modeling on watershed level with mont
+        Scopus: International trade of global scarce water use in agriculture: Modeling on watershed level with mont
+
+  [303] Match: DOI
+        DOI:   10.1126/sciadv.aao1108
+        WoS:   Alternative cereals can improve water use and nutrient supply in India
+        Scopus: Alternative cereals can improve water use and nutrient supply in India
+
+  [304] Match: DOI
+        DOI:   10.1039/c8gc02066c
+        WoS:   New eco-cellular concretes: sustainable and energy-efficient materials
+        Scopus: New eco-cellular concretes: Sustainable and energy-efficient materials
+
+  [305] Match: DOI
+        DOI:   10.1088/1748-9326/aa5556
+        WoS:   An urban systems framework to assess the trans-boundary food-energy-water nexus: implementation in D
+        Scopus: An urban systems framework to assess the trans-boundary food-energy-water nexus: Implementation in D
+
+  [306] Match: DOI
+        DOI:   10.1016/j.agsy.2015.07.009
+        WoS:   Impact of potential climate change on crop yield and water footprint of rice in the Po valley of Ita
+        Scopus: Impact of potential climate change on crop yield and water footprint of rice in the Po valley of Ita
+
+  [307] Match: DOI
+        DOI:   10.1007/s41685-018-0090-4
+        WoS:   Regional analyses of water use in Japanese paddy rice cultivation using modified water footprint ind
+        Scopus: Regional analyses of water use in Japanese paddy rice cultivation using modified water footprint ind
+
+  [308] Match: DOI
+        DOI:   10.1007/s11367-019-01656-0
+        WoS:   Environmental analyses to inform transitions to sustainable diets in developing countries: case stud
+        Scopus: Environmental analyses to inform transitions to sustainable diets in developing countries: case stud
+
+  [309] Match: DOI
+        DOI:   10.1016/j.foodpol.2008.11.002
+        WoS:   Pathways to reduce the environmental footprints of water and energy inputs in food production
+        Scopus: Pathways to reduce the environmental footprints of water and energy inputs in food production
+
+  [310] Match: DOI
+        DOI:   10.3390/su9122283
+        WoS:   Implications of Water Use and Water Scarcity Footprint for Sustainable Rice Cultivation
+        Scopus: Implications of water use and water scarcity footprint for sustainable rice cultivation
+
+  [311] Match: DOI
+        DOI:   10.3390/resources8030141
+        WoS:   The Water Footprint of European Agricultural Imports: Hotspots in the Context of Water Scarcity
+        Scopus: The water footprint of European agricultural imports: Hotspots in the context ofwater scarcity
+
+  [312] Match: DOI
+        DOI:   10.1016/j.spc.2020.04.002
+        WoS:   Reducing water footprints through healthy and reasonable changes in diet and imported products
+        Scopus: Reducing water footprints through healthy and reasonable changes in diet and imported products
+
+  [313] Match: DOI
+        DOI:   10.1016/j.scitotenv.2019.136190
+        WoS:   Assessment of climate change impact on the water footprint in rice production: Historical simulation
+        Scopus: Assessment of climate change impact on the water footprint in rice production: Historical simulation
+
+  [314] Match: DOI
+        DOI:   10.5004/dwt.2019.23841
+        WoS:   Assessing water scarcity in Malaysia: a case study of rice production
+        Scopus: Assessing water scarcity in malaysia: A case study of rice production
+
+  [315] Match: DOI
+        DOI:   10.1016/j.fcr.2017.07.001
+        WoS:   The birth of a new cropping system: towards sustainability in the subtropical lowland agriculture
+        Scopus: The birth of a new cropping system: towards sustainability in the sub-tropical lowland agriculture
+
+  [316] Match: DOI
+        DOI:   10.1016/j.scitotenv.2018.07.018
+        WoS:   Carbon footprint and agricultural sustainability nexus in an intensively cultivated region of Indo-G
+        Scopus: Carbon footprint and agricultural sustainability nexus in an intensively cultivated region of Indo-G
+
+  [317] Match: DOI
+        DOI:   10.1002/2015WR017148
+        WoS:   Global sensitivity of high-resolution estimates of crop water footprint
+        Scopus: Global sensitivity of high-resolution estimates of crop water footprint
+
+  [318] Match: DOI
+        DOI:   10.1016/j.agwat.2020.106445
+        WoS:   The contribution of percolation to water balances in water-seeded rice systems
+        Scopus: The contribution of percolation to water balances in water-seeded rice systems
+
+  [319] Match: DOI
+        DOI:   10.1016/j.jclepro.2020.122562
+        WoS:   Impact of food wastage on water resources and GHG emissions in Korea: A trend-based prediction model
+        Scopus: Impact of food wastage on water resources and GHG emissions in Korea: A trend-based prediction model
+
+  [320] Match: DOI
+        DOI:   10.1016/j.landusepol.2020.105106
+        WoS:   Land and water footprints associated with rice and maize losses in Brazil
+        Scopus: Land and water footprints associated with rice and maize losses in Brazil
+
+  [321] Match: DOI
+        DOI:   10.3390/su10040928
+        WoS:   Carbon Footprint and Driving Forces of Saline Agriculture in Coastally Reclaimed Areas of Eastern Ch
+        Scopus: Carbon footprint and driving forces of saline agriculture in coastally reclaimed areas of Eastern Ch
+
+  [322] Match: DOI
+        DOI:   10.1016/j.agwat.2019.105939
+        WoS:   Assessing the components of, and factors influencing, paddy rice water footprint in China
+        Scopus: Assessing the components of, and factors influencing, paddy rice water footprint in China
+
+  [323] Match: DOI
+        DOI:   10.1016/j.scitotenv.2015.05.068
+        WoS:   Food consumption and waste and the embedded carbon, water and ecological footprints of households in
+        Scopus: Food consumption and waste and the embedded carbon, water and ecological footprints of households in
+
+  [324] Match: DOI
+        DOI:   10.1016/j.jclepro.2017.11.251
+        WoS:   The water footprint and validity analysis of ecological engineering in North Beijing, China
+        Scopus: The water footprint and validity analysis of ecological engineering in North Beijing, China
+
+  [325] Match: DOI
+        DOI:   10.1016/j.agwat.2020.106027
+        WoS:   Hybrid analytical framework for regional agricultural water resource utilization and efficiency eval
+        Scopus: Hybrid analytical framework for regional agricultural water resource utilization and efficiency eval
+
+  [326] Match: DOI
+        DOI:   10.1007/s13280-015-0720-2
+        WoS:   Sustaining food self-sufficiency of a nation: The case of Sri Lankan rice production and related wat
+        Scopus: Sustaining food self-sufficiency of a nation: The case of Sri Lankan rice production and related wat
+
+  [327] Match: DOI
+        DOI:   10.1016/j.advwatres.2020.103679
+        WoS:   Sustainability of the blue water footprint of crops
+        Scopus: Sustainability of the blue water footprint of crops
+
+  [328] Match: DOI
+        DOI:   10.1007/s10333-013-0358-2
+        WoS:   Estimating water footprint of paddy rice in Korea
+        Scopus: Estimating water footprint of paddy rice in Korea
+
+  [329] Match: DOI
+        DOI:   10.1016/j.jclepro.2018.05.024
+        WoS:   Carbon and water footprints of major cereal crops production in China
+        Scopus: Carbon and water footprints of major cereal crops production in China
+
+  [330] Match: DOI
+        DOI:   10.1017/S0021859614000665
+        WoS:   Carbon footprint of crop production in China: an analysis of National Statistics data
+        Scopus: Carbon footprint of crop production in China: An analysis of National Statistics data
+
+  [331] Match: DOI
+        DOI:   10.1007/s10661-015-5085-2
+        WoS:   Economics, energy, and environmental assessment of diversified crop rotations in sub-Himalayas of In
+        Scopus: Economics, energy, and environmental assessment of diversified crop rotations in sub-Himalayas of In
+
+  [332] Match: DOI
+        DOI:   10.1016/j.gfs.2016.05.003
+        WoS:   Sustainability of rice intensification in Uruguay from 1993 to 2013
+        Scopus: Sustainability of rice intensification in Uruguay from 1993 to 2013
+
+  [333] Match: DOI
+        DOI:   10.3390/w8010030
+        WoS:   Anthropogenic Nitrogen and Phosphorus Emissions and Related Grey Water Footprints Caused by EU-27's 
+        Scopus: Anthropogenic nitrogen and phosphorus emissions and related grey water footprints caused by EU-27's 
+
+  [334] Match: DOI
+        DOI:   10.1016/j.scitotenv.2017.02.085
+        WoS:   The water use of Indian diets and socio-demographic factors related to dietary blue water footprint
+        Scopus: The water use of Indian diets and socio-demographic factors related to dietary blue water footprint
+
+  [335] Match: DOI
+        DOI:   10.1016/j.jclepro.2016.11.131
+        WoS:   Quantification for carbon footprint of agricultural inputs of grains cultivation in China since 1978
+        Scopus: Quantification for carbon footprint of agricultural inputs of grains cultivation in China since 1978
+
+  [336] Match: DOI
+        DOI:   10.1007/s12221-015-0902-3
+        WoS:   Chemical Treatments of Rice Husk Filler and Jute Fiber for the Use in Green Composites
+        Scopus: Chemical treatments of rice husk filler and jute fiber for the use in green composites
+
+  [337] Match: DOI
+        DOI:   10.1038/srep39855
+        WoS:   Improving rice production sustainability by reducing water demand and greenhouse gas emissions with 
+        Scopus: Improving rice production sustainability by reducing water demand and greenhouse gas emissions with 
+
+  [338] Match: DOI
+        DOI:   10.1016/j.agee.2018.10.011
+        WoS:   Greenhouse gas footprint of diversifying rice cropping systems: Impacts of water regime and organic 
+        Scopus: Greenhouse gas footprint of diversifying rice cropping systems: Impacts of water regime and organic 
+
+  [339] Match: DOI
+        DOI:   10.2166/wst.2012.623
+        WoS:   The water footprint of Austria for different diets
+        Scopus: The water footprint of Austria for different diets
+
+  [340] Match: DOI
+        DOI:   10.1002/jsfa.10213
+        WoS:   Analysis of the characteristics and driving forces of water footprint productivity in paddy rice cul
+        Scopus: Analysis of the characteristics and driving forces of water footprint productivity in paddy rice cul
+
+  [341] Match: DOI
+        DOI:   10.1088/1748-9326/ab2108
+        WoS:   Do alternative irrigation strategies for rice cultivation decrease water footprints at the cost of l
+        Scopus: Do alternative irrigation strategies for rice cultivation decrease water footprints at the cost of l
+
+  [342] Match: DOI
+        DOI:   10.1007/s10333-011-0267-1
+        WoS:   Estimation of the international virtual water flow of grain crop products in Korea
+        Scopus: Estimation of the international virtual water flow of grain crop products in Korea
+
+  [343] Match: DOI
+        DOI:   10.1007/s11356-020-10457-0
+        WoS:   Waste valorization and resource conservation in rice processing industries-an analytical study from 
+        Scopus: Waste valorization and resource conservation in rice processing industries—an analytical study from 
+
+  [344] Match: DOI
+        DOI:   10.1016/j.advwatres.2020.103560
+        WoS:   Efficiency and sustainability of inter-provincial crop-related virtual water transfers in China
+        Scopus: Efficiency and sustainability of inter-provincial crop-related virtual water transfers in China
+
+  [345] Match: DOI
+        DOI:   10.5194/hess-18-2219-2014
+        WoS:   Sensitivity and uncertainty in crop water footprint accounting: a case study for the Yellow River ba
+        Scopus: Sensitivity and uncertainty in crop water footprint accounting: A case study for the Yellow River ba
+
+  [346] Match: DOI
+        DOI:   10.15666/aeer/1705_1103311044
+        WoS:   EVALUATION OF WATER FOOTPRINT OF SELECTED CROP CONSUMPTION IN TEHRAN PROVINCE
+        Scopus: Evaluation of water footprint of selected crop consumption in Tehran province
+
+  [347] Match: DOI
+        DOI:   10.3390/w12010125
+        WoS:   Water-Scarcity Footprint Associated with Crop Expansion in Northeast China: A Case Study Based on Aq
+        Scopus: Water-scarcity footprint associated with crop expansion in Northeast China: A case study based on aq
+
+  [348] Match: DOI
+        DOI:   10.3390/atmos10100593
+        WoS:   Vulnerabilities of the European Union's Economy to Hydrological Extremes Outside its Borders
+        Scopus: Vulnerabilities of the European Union's economy to hydrological extremes outside its borders
+
+  [349] Match: DOI
+        DOI:   10.1029/2018WR023146
+        WoS:   Water Debt Indicator Reveals Where Agricultural Water Use Exceeds Sustainable Levels
+        Scopus: Water Debt Indicator Reveals Where Agricultural Water Use Exceeds Sustainable Levels
+
+  [350] Match: DOI
+        DOI:   10.1007/s11367-019-01648-0
+        WoS:   Water footprint inventory database of Thai rice farming for water policy decisions and water scarcit
+        Scopus: Water footprint inventory database of Thai rice farming for water policy decisions and water scarcit
+
+  [351] Match: DOI
+        DOI:   10.1016/j.enpol.2009.04.030
+        WoS:   Energy and water tradeoffs in enhancing food security: A selective international assessment
+        Scopus: Energy and water tradeoffs in enhancing food security: A selective international assessment
+
+  [352] Match: TITLE (similarity: 100.00%)
+        DOI:   N/A
+        WoS:   Farm level water footprints of rice production based on measured and estimated crop evapo-transpirat
+        Scopus: Farm level water footprints of rice production based on measured and estimated crop evapo-transpirat
+
+  [353] Match: DOI
+        DOI:   10.3390/w12051429
+        WoS:   Water Resources Management Strategies for Irrigated Agriculture in the Indus Basin of Pakistan
+        Scopus: Water resources management strategies for irrigated agriculture in the indus basin of Pakistan
+
+  [354] Match: DOI
+        DOI:   10.1007/s10668-019-00325-4
+        WoS:   Food loss in India: water footprint, land footprint and GHG emissions
+        Scopus: Food loss in India: water footprint, land footprint and GHG emissions
+
+  [355] Match: DOI
+        DOI:   10.3390/w12102787
+        WoS:   Water and Land as Shared Resources for Agriculture and Aquaculture: Insights from Asia
+        Scopus: Water and land as shared resources for agriculture and aquaculture: Insights from asia
+
+  [356] Match: DOI
+        DOI:   10.1002/jsfa.8799
+        WoS:   Characteristics of the water footprint of rice production under different rainfall years in Jilin Pr
+        Scopus: Characteristics of the water footprint of rice production under different rainfall years in Jilin Pr
+
+  [357] Match: DOI
+        DOI:   10.1016/j.scitotenv.2017.08.011
+        WoS:   Water footprint assessment for crop production based on field measurements: A case study of irrigate
+        Scopus: Water footprint assessment for crop production based on field measurements: A case study of irrigate
+
+  [358] Match: DOI
+        DOI:   10.3390/w6061698
+        WoS:   Water Footprint and Impact of Water Consumption for Food, Feed, Fuel Crops Production in Thailand
+        Scopus: Water footprint and impact of water consumption for food, feed, fuel crops production in Thailand
+
+  [359] Match: DOI
+        DOI:   10.1007/s10333-021-00868-1
+        WoS:   IoT-based smart crop-field monitoring of rice cultivation system for irrigation control and its effe
+        Scopus: IoT-based smart crop-field monitoring of rice cultivation system for irrigation control and its effe
+
+  [360] Match: DOI
+        DOI:   10.1007/s13762-017-1444-6
+        WoS:   Water stress index and its implication for agricultural land-use policy in Thailand
+        Scopus: Water stress index and its implication for agricultural land-use policy in Thailand
+
+  [361] Match: DOI
+        DOI:   10.3390/w10030341
+        WoS:   Uncertainty Analysis of the Water Scarcity Footprint Based on the AWARE Model Considering Temporal V
+        Scopus: Uncertainty analysis of the water scarcity footprint based on the AWARE model considering temporal v
+
+  [362] Match: DOI
+        DOI:   10.1016/j.ecolind.2020.106962
+        WoS:   A quantitative review of water footprint accounting and simulation for crop production based on publ
+        Scopus: A quantitative review of water footprint accounting and simulation for crop production based on publ
+
+  [363] Match: DOI
+        DOI:   10.1016/j.jclepro.2017.02.103
+        WoS:   Sustainability of water resources for agriculture considering grain production, trade and consumptio
+        Scopus: Sustainability of water resources for agriculture considering grain production, trade and consumptio
+
+  [364] Match: DOI
+        DOI:   10.1016/j.jclepro.2020.120643
+        WoS:   Double paddy rice conversion to maize-paddy rice reduces carbon footprint and enhances net carbon si
+        Scopus: Double paddy rice conversion to maize–paddy rice reduces carbon footprint and enhances net carbon si
+
+  [365] Match: DOI
+        DOI:   10.1016/j.ecolind.2015.03.027
+        WoS:   Water Footprint in paddy rice systems. Its determination in the provinces of Santa Fe and Entre Rios
+        Scopus: Water Footprint in paddy rice systems. Its determination in the provinces of Santa Fe and Entre Ríos
